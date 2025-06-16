@@ -4,8 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Uniqo || Team</title>
-    <link rel="shortcut icon" href="assets/images/fevicon.svg" type="image/x-icon">
+    <title>Leasegrid || Team</title>
+    <link rel="shortcut icon" href="assets/images/favicon.svg" type="image/x-icon">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link
@@ -28,7 +28,7 @@
             <div class="loading-image">
                 <img src="assets/images/preloader-image.png" alt="logo">
                 <div class="logo-text">
-                    <h1>Uniqo</h1>
+                    <h1>Leasegrid</h1>
                 </div>
             </div>
         </div>
@@ -74,7 +74,7 @@
         <div class="container-fluid">
             <nav class="main-menu">
                 <div class="main-menu-logo">
-                    <a href="index.html">
+                    <a href="index.php">
                         <img src="assets/images/Logo.svg" alt="header-logo">
                     </a>
                 </div>
@@ -83,49 +83,49 @@
                         <li class="menu-item-children active"><a href="#">Home</a><i
                                 class="fa-solid fa-chevron-down"></i>
                             <ul>
-                                <li><a href="index.html">Home One</a></li>
-                                <li><a href="index-2.html">Home Two</a></li>
-                                <li><a href="index-3.html">Home Three</a></li>
-                                <li><a href="index-4.html">Home Four</a></li>
-                                <li><a href="index-5.html">Home Five</a></li>
+                                <li><a href="index.php">Home One</a></li>
+                                <li><a href="index-2.php">Home Two</a></li>
+                                <li><a href="index-3.php">Home Three</a></li>
+                                <li><a href="index-4.php">Home Four</a></li>
+                                <li><a href="index-5.php">Home Five</a></li>
                             </ul>
                         </li>
                         <li class="menu-item-children"><a href="#">Pages</a><i class="fa-solid fa-chevron-down"></i>
                             <ul>
-                                <li><a href="about.html">About Us</a></li>
-                                <li><a href="careers.html">Careers</a></li>
-                                <li><a href="team.html">Meet The Team</a></li>
-                                <li><a href="testimonial.html">Testimonial</a></li>
-                                <li><a href="pricing.html">Pricing</a></li>
+                                <li><a href="about.php">About Us</a></li>
+                                <li><a href="careers.php">Careers</a></li>
+                                <li><a href="team.php">Meet The Team</a></li>
+                                <li><a href="testimonial.php">Testimonial</a></li>
+                                <li><a href="pricing.php">Pricing</a></li>
                             </ul>
                         </li>
                         <li class="menu-item-children"><a href="#">Services</a><i class="fa-solid fa-chevron-down"></i>
                             <ul>
-                                <li><a href="service.html">Services </a></li>
-                                <li><a href="service-details.html">Services Details</a></li>
+                                <li><a href="service.php">Services </a></li>
+                                <li><a href="service-details.php">Services Details</a></li>
                             </ul>
                         </li>
                         <li class="menu-item-children"><a href="#">Portfolio</a><i class="fa-solid fa-chevron-down"></i>
                             <ul>
-                                <li><a href="portfolio.html">Portfolio</a></li>
-                                <li><a href="portfolio-details.html">Portfolio Details</a></li>
+                                <li><a href="portfolio.php">Portfolio</a></li>
+                                <li><a href="portfolio-details.php">Portfolio Details</a></li>
                             </ul>
                         </li>
                         <li class="menu-item-children"><a href="#">Blog</a><i class="fa-solid fa-chevron-down"></i>
                             <ul>
-                                <li><a href="blog.html">Blog Standard</a></li>
-                                <li><a href="blog-details.html">Blog Details</a></li>
+                                <li><a href="blog.php">Blog Standard</a></li>
+                                <li><a href="blog-details.php">Blog Details</a></li>
                             </ul>
                         </li>
                         <li class="menu-item-children"><a href="#">Shop</a><i class="fa-solid fa-chevron-down"></i>
                             <ul>
-                                <li><a href="shop.html">Shop</a></li>
-                                <li><a href="shop-details.html">Product Details</a></li>
-                                <li><a href="cart.html">Cart</a></li>
-                                <li><a href="checkout.html">Checkout</a></li>
+                                <li><a href="shop.php">Shop</a></li>
+                                <li><a href="shop-details.php">Product Details</a></li>
+                                <li><a href="cart.php">Cart</a></li>
+                                <li><a href="checkout.php">Checkout</a></li>
                             </ul>
                         </li>
-                        <li class="menu-item-children"><a href="contact.html">Contact Us</a></li>
+                        <li class="menu-item-children"><a href="contact.php">Contact Us</a></li>
                     </ul>
                     <div class="header-menu-collaps">
                         <span class="line-1"></span>
@@ -133,7 +133,7 @@
                         <span class="line-3"></span>
                     </div>
                     <div class="main-menu-right">
-                        <a href="contact.html" class="btn btn-light btn-theme">Get In Touch +</a>
+                        <a href="contact.php" class="btn btn-light btn-theme">Get In Touch +</a>
                         <a href="javascript:void(0)" class="search-btn"><img src="assets/images/svg/header/Search.svg"
                                 alt="icon"></a>
                         <div class="header-side-menu">
@@ -160,7 +160,7 @@
             </div>
             <ul class="breadcrumb">
                 <li>
-                    <a href="index.html">Home</a>
+                    <a href="index.php">Home</a>
                 </li>
                 <li>
                     <img src="assets/images/about/arrow-brudcrumb.svg" alt="icon">
@@ -387,7 +387,7 @@
                         <h2 class="heading-title animate fadeInUp wow" data-wow-duration="1500ms"
                             data-wow-delay="200ms">Sharing ideas and building brands that truly matter</h2>
                     </div>
-                    <a href="contact.html" class="btn btn-primary btn-theme animate fadeInUp wow"
+                    <a href="contact.php" class="btn btn-primary btn-theme animate fadeInUp wow"
                         data-wow-duration="1500ms" data-wow-delay="400ms">Get Started +</a>
                 </div>
             </div>
@@ -417,23 +417,23 @@
                             <ul class="footer-menu-one">
                                 <li>
                                     <img src="assets/images/footer-icon/footer-one-1.svg" alt="icon">
-                                    <a href="service-details.html">Financial Analysis</a>
+                                    <a href="service-details.php">Financial Analysis</a>
                                 </li>
                                 <li>
                                     <img src="assets/images/footer-icon/footer-one-2.svg" alt="icon">
-                                    <a href="service-details.html">Work organization</a>
+                                    <a href="service-details.php">Work organization</a>
                                 </li>
                                 <li>
                                     <img src="assets/images/footer-icon/footer-one-3.svg" alt="icon">
-                                    <a href="service-details.html">Digital Marketing</a>
+                                    <a href="service-details.php">Digital Marketing</a>
                                 </li>
                                 <li>
                                     <img src="assets/images/footer-icon/footer-one-4.svg" alt="icon">
-                                    <a href="service-details.html">Innovation space</a>
+                                    <a href="service-details.php">Innovation space</a>
                                 </li>
                                 <li>
                                     <img src="assets/images/footer-icon/footer-one-5.svg" alt="icon">
-                                    <a href="service-details.html">Risk Advisory</a>
+                                    <a href="service-details.php">Risk Advisory</a>
                                 </li>
                             </ul>
                         </div>
@@ -445,23 +445,23 @@
                             <ul class="footer-menu-one">
                                 <li>
                                     <img src="assets/images/footer-icon/footer-one-6.svg" alt="icon">
-                                    <a href="about.html">About</a>
+                                    <a href="about.php">About</a>
                                 </li>
                                 <li>
                                     <img src="assets/images/footer-icon/footer-one-7.svg" alt="icon">
-                                    <a href="careers.html">Career</a>
+                                    <a href="careers.php">Career</a>
                                 </li>
                                 <li>
                                     <img src="assets/images/footer-icon/footer-one-8.svg" alt="icon">
-                                    <a href="careers.html">Applications</a>
+                                    <a href="careers.php">Applications</a>
                                 </li>
                                 <li>
                                     <img src="assets/images/footer-icon/footer-one-9.svg" alt="icon">
-                                    <a href="contact.html">Contact Us</a>
+                                    <a href="contact.php">Contact Us</a>
                                 </li>
                                 <li>
                                     <img src="assets/images/footer-icon/footer-one-10.svg" alt="icon">
-                                    <a href="portfolio.html">Case Studies</a>
+                                    <a href="portfolio.php">Case Studies</a>
                                 </li>
                             </ul>
                         </div>
@@ -492,11 +492,11 @@
                     </div>
                     <div class="col-12">
                         <div class="footer-lower-one">
-                            <p class="lead">© Copyright@ Uniqo All rights reserved</p>
+                            <p class="lead">© Copyright@ Leasegrid All rights reserved</p>
                             <ul>
-                                <li><a href="about.html">Terms and conditions</a></li>
+                                <li><a href="about.php">Terms and conditions</a></li>
                                 |
-                                <li><a href="about.html">Privacy policy</a></li>
+                                <li><a href="about.php">Privacy policy</a></li>
                             </ul>
                         </div>
                     </div>
@@ -514,55 +514,55 @@
                 <span></span>
             </a>
             <div class="logo-box">
-                <a href="index.html"><img width="150" src="assets/images/Logo.svg" alt="logo"></a>
+                <a href="index.php"><img width="150" src="assets/images/Logo.svg" alt="logo"></a>
             </div>
             <div class="mobile-nav-container">
                 <ul class="mobile-menu-list">
                     <li class="menu-item-has-children dropdown"><a href="#">Home</a>
                         <ul>
-                            <li><a href="index.html">Home-1</a></li>
-                            <li><a href="index-2.html">Home-2</a></li>
-                            <li><a href="index-3.html">Home-3</a></li>
-                            <li><a href="index-4.html">Home-4</a></li>
-                            <li><a href="index-5.html">Home-5</a></li>
+                            <li><a href="index.php">Home-1</a></li>
+                            <li><a href="index-2.php">Home-2</a></li>
+                            <li><a href="index-3.php">Home-3</a></li>
+                            <li><a href="index-4.php">Home-4</a></li>
+                            <li><a href="index-5.php">Home-5</a></li>
                         </ul>
                     </li>
                     <li class="menu-item-has-children dropdown"><a href="#">Pages</a>
                         <ul>
-                            <li><a href="about.html">About Us</a></li>
-                            <li><a href="careers.html">Careers</a></li>
-                            <li><a href="team.html">Meet The Team</a></li>
-                            <li><a href="testimonial.html">Testimonial</a></li>
-                            <li><a href="pricing.html">Pricing</a></li>
+                            <li><a href="about.php">About Us</a></li>
+                            <li><a href="careers.php">Careers</a></li>
+                            <li><a href="team.php">Meet The Team</a></li>
+                            <li><a href="testimonial.php">Testimonial</a></li>
+                            <li><a href="pricing.php">Pricing</a></li>
                         </ul>
                     </li>
                     <li class="menu-item-has-children dropdown"><a href="#">Services </a>
                         <ul>
-                            <li><a href="service.html">Services </a></li>
-                            <li><a href="service-details.html">Services Details</a></li>
+                            <li><a href="service.php">Services </a></li>
+                            <li><a href="service-details.php">Services Details</a></li>
                         </ul>
                     </li>
                     <li class="menu-item-has-children dropdown"><a href="#">Portfolio</a>
                         <ul>
-                            <li><a href="portfolio.html">Portfolio</a></li>
-                            <li><a href="portfolio-details.html">Portfolio Details</a></li>
+                            <li><a href="portfolio.php">Portfolio</a></li>
+                            <li><a href="portfolio-details.php">Portfolio Details</a></li>
                         </ul>
                     </li>
                     <li class="menu-item-has-children dropdown"><a href="#">Blog</a>
                         <ul>
-                            <li><a href="blog.html">Blog Standard</a></li>
-                            <li><a href="blog-details.html">Blog Details</a></li>
+                            <li><a href="blog.php">Blog Standard</a></li>
+                            <li><a href="blog-details.php">Blog Details</a></li>
                         </ul>
                     </li>
                     <li class="menu-item-has-children dropdown"><a href="#">Shop</a>
                         <ul>
-                            <li><a href="shop.html">Shop</a></li>
-                            <li><a href="shop-details.html">Product Details</a></li>
-                            <li><a href="cart.html">Cart</a></li>
-                            <li><a href="checkout.html">Checkout</a></li>
+                            <li><a href="shop.php">Shop</a></li>
+                            <li><a href="shop-details.php">Product Details</a></li>
+                            <li><a href="cart.php">Cart</a></li>
+                            <li><a href="checkout.php">Checkout</a></li>
                         </ul>
                     </li>
-                    <li class="menu-item-has-children"><a href="contact.html">Contact Us</a>
+                    <li class="menu-item-has-children"><a href="contact.php">Contact Us</a>
                     </li>
                 </ul>
             </div>
@@ -578,10 +578,10 @@
                 <span></span>
             </a>
             <div class="side-menu-logo-box">
-                <a href="index.html"><img src="assets/images/footer-logo.svg" alt="logo"></a>
+                <a href="index.php"><img src="assets/images/footer-logo.svg" alt="logo"></a>
             </div>
             <div class="side-menu-container">
-                <p>Uniqo - Business Consulting WordPress Theme for professionals, services, and solutions.</p>
+                <p>Leasegrid - Business Consulting WordPress Theme for professionals, services, and solutions.</p>
                 <h4>Contact Info</h4>
                 <ul>
                     <li>
@@ -611,7 +611,7 @@
     <!-- search-popup start -->
     <div class="search-popup">
         <button class="close-search"></button>
-        <form method="post" action="blog.html">
+        <form method="post" action="blog.php">
             <div class="form-group">
                 <input type="search" name="search" placeholder="Search Here" required="">
                 <button type="submit"><i class="fa-solid fa-magnifying-glass"></i></button>
