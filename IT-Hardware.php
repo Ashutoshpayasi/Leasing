@@ -219,7 +219,7 @@
               </ul>
             </div>
             <div class="service-details-cta-widget animate fadeInRight wow" data-wow-duration="1500ms" data-wow-delay="400ms">
-              <img src="assets/images/Logo.svg" alt="icon" />
+              <img src="assets/images/lease.png" alt="icon" />
               <h5>Need Help? We Are Here To Help You</h5>
               <a href="contact.php" class="btn btn-primary btn-theme">Contact Us +</a>
             </div>

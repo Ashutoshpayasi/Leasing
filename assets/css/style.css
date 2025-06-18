@@ -609,7 +609,7 @@ span.space {
 .loading-image {
     display: flex;
     align-items: center;
-    column-gap: 40px;
+    column-gap: 20px;
 }
 
 .loading-image img {
@@ -623,7 +623,7 @@ span.space {
     transition: all 0.5s;
     animation: width 2.5s 1s;
     color: var(--uniqo-light);
-    font-size: 60px;
+    font-size: 65px;
     margin-bottom: 0;
 }
 
@@ -755,9 +755,9 @@ ul.main-menu-list {
     text-align: center;
 }
 
-.main-menu-logo img {
-    margin-left: -50px;
-}
+/* .main-menu-logo img {
+    margin-left: -10px;
+} */
 
 ul.main-menu-list li {
     display: flex;
@@ -2208,27 +2208,49 @@ footer.footer-one {
 }
 
 ul.footer-menu-one {
+    list-style: none;
     margin: 0;
     padding: 0;
-    list-style: none;
 }
 
 ul.footer-menu-one li {
     display: flex;
     align-items: center;
-    column-gap: 15px;
-    margin-bottom: 30px;
+    margin-bottom: 15px;
+    transition: all 0.3s ease;
 }
 
 ul.footer-menu-one li img {
-    max-width: 22px;
-    height: 22px;
+    width: 20px;
+    height: 20px;
+    margin-right: 12px;
+    transition: all 0.3s ease;
 }
 
 ul.footer-menu-one li a {
-    font-size: 18px;
-    color: var(--uniqo-black);
+    color: var(--uniqo-light-text);
+    font-size: 16px;
+    font-weight: 400;
+    text-decoration: none;
+    transition: all 0.3s ease;
     position: relative;
+    padding-left: 5px;
+}
+
+ul.footer-menu-one li a:hover {
+    color: var(--uniqo-primary);
+    padding-left: 10px;
+}
+
+ul.footer-menu-one li:hover img {
+    transform: translateX(5px);
+}
+
+.footer-widget-one h4 {
+    color: var(--uniqo-dark-text);
+    font-size: 24px;
+    margin-bottom: 25px;
+    font-weight: 500;
 }
 
 ul.footer-menu-one li a::after {

@@ -758,8 +758,8 @@
               class="work-process-one animate fadeInRight wow"
               data-wow-duration="1500ms">
               <div class="work-process-title">
-                <p>Business Analysis</p>
-                <p class="work-process-text">68%</p>
+                <p>Transportation Assets</p>
+                <p class="work-process-text">85%</p>
               </div>
               <div class="work-processing"><span></span></div>
             </div>
@@ -768,8 +768,8 @@
               data-wow-duration="1500ms"
               data-wow-delay="200ms">
               <div class="work-process-title">
-                <p>Financial Reporting</p>
-                <p class="work-process-text">85%</p>
+                <p>IT And Hardware</p>      
+                <p class="work-process-text">70%</p>
               </div>
               <div class="work-processing"><span></span></div>
             </div>
@@ -778,8 +778,8 @@
               data-wow-duration="1500ms"
               data-wow-delay="400ms">
               <div class="work-process-title">
-                <p>Investment Analysis</p>
-                <p class="work-process-text">56%</p>
+               <p>Plant and Machinery</p>
+                <p class="work-process-text">65%</p>
               </div>
               <div class="work-processing"><span></span></div>
             </div>
@@ -962,98 +962,7 @@
   </div>
   <!-- team one end -->
   <!-- blog one start -->
-  <div class="blog-section-one">
-    <div class="container-fluid p-0">
-      <div class="blog-one-slider">
-        <div class="blog-box-one">
-          <div class="blog-image-one">
-            <img src="assets/images/blog/blog-1.jpg" alt="blog-image" />
-            <a href="blog-details.php" class="btn-link"><img src="assets/images/svg/arrow-link.svg" alt="icon" /></a>
-          </div>
-          <div class="blog-details-one">
-            <div class="blog-meta-one">
-              <a href="blog-details.php" class="blog-date-one">18 November 2024
-              </a>
-              <a href="blog-details.php" class="blog-tag-one">Marketing</a>
-            </div>
-            <h4 class="blog-title-one">
-              <a href="blog-details.php">Business development strategies with Saga</a>
-            </h4>
-            <div class="blog-author-one">
-              <img src="assets/images/blog/blog-author-1.png" alt="" />
-              <a href="blog-details.php"><span>by </span> Mitta blrow</a>
-            </div>
-          </div>
-        </div>
-        <div class="blog-box-one">
-          <div class="blog-image-one">
-            <img src="assets/images/blog/blog-2.jpg" alt="blog-image" />
-            <a href="blog-details.php" class="btn-link"><img src="assets/images/svg/arrow-link.svg" alt="icon" /></a>
-          </div>
-          <div class="blog-details-one">
-            <div class="blog-meta-one">
-              <a href="blog-details.php" class="blog-date-one">18 November 2024
-              </a>
-              <a href="blog-details.php" class="blog-tag-one">work</a>
-            </div>
-            <h4 class="blog-title-one">
-              <a href="blog-details.php">A Business Consulting That Can Produce Anything.</a>
-            </h4>
-            <div class="blog-author-one">
-              <img
-                src="assets/images/blog/blog-author-2.png"
-                alt="author-image" />
-              <a href="blog-details.php"><span>by </span> Mari Smith</a>
-            </div>
-          </div>
-        </div>
-        <div class="blog-box-one">
-          <div class="blog-image-one">
-            <img src="assets/images/blog/blog-3.jpg" alt="blog-image" />
-            <a href="blog-details.php" class="btn-link"><img src="assets/images/svg/arrow-link.svg" alt="icon" /></a>
-          </div>
-          <div class="blog-details-one">
-            <div class="blog-meta-one">
-              <a href="blog-details.php" class="blog-date-one">18 November 2024
-              </a>
-              <a href="blog-details.php" class="blog-tag-one">Analysis</a>
-            </div>
-            <h4 class="blog-title-one">
-              <a href="blog-details.php">New Consulting For All Kind Offer Business Finance</a>
-            </h4>
-            <div class="blog-author-one">
-              <img
-                src="assets/images/blog/blog-author-3.png"
-                alt="author-image" />
-              <a href="blog-details.php"><span>by </span>Peeter Park</a>
-            </div>
-          </div>
-        </div>
-        <div class="blog-box-one">
-          <div class="blog-image-one">
-            <img src="assets/images/blog/blog-1.jpg" alt="blog-image" />
-            <a href="blog-details.php" class="btn-link"><img src="assets/images/svg/arrow-link.svg" alt="icon" /></a>
-          </div>
-          <div class="blog-details-one">
-            <div class="blog-meta-one">
-              <a href="blog-details.php" class="blog-date-one">18 November 2024
-              </a>
-              <a href="blog-details.php" class="blog-tag-one">Marketing</a>
-            </div>
-            <h4 class="blog-title-one">
-              <a href="blog-details.php">Business development strategies with Saga</a>
-            </h4>
-            <div class="blog-author-one">
-              <img
-                src="assets/images/blog/blog-author-1.png"
-                alt="author-image" />
-              <a href="blog-details.php"><span>by </span> Shama Hyder</a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+  
 
   <?php include('includes/footer.php'); ?>
   <!-- blog one end -->
