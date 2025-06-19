@@ -722,7 +722,7 @@ ul.topbar-social-media-one {
 .main-header {
     position: absolute;
     width: 100%;
-    border-bottom: 1px solid rgb(224 224 224 / 17%);
+ 
     z-index: 99999;
 }
 
@@ -746,7 +746,7 @@ ul.main-menu-list {
     column-gap: 30px;
     margin-right: auto;
     padding-left: 80px;
-    border-left: 1px solid rgb(224 224 224 / 17%);
+   
 }
 
 .main-menu-logo {
@@ -2373,7 +2373,7 @@ ul.footer-social-media-one li a:hover img {
 .footer-lower-one {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
     flex-wrap: wrap;
     row-gap: 15px;
     padding: 25px 0;
@@ -10014,4 +10014,46 @@ ul.job-location li p {
 .why-choose-box-six p {
     margin-bottom: 0;
     color: var(--uniqo-light);
+}
+
+/* Footer Contact Section Styles */
+.footer-contact-one {
+  background: none;
+  padding: 0;
+}
+.footer-contact-one h4 {
+  margin-bottom: 18px;
+}
+.footer-contact-list {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 18px 0;
+}
+.footer-contact-list li {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  margin-bottom: 10px;
+  color: var(--uniqo-dark-text);
+  font-size: 16px;
+}
+.footer-contact-list li img {
+  width: 22px;
+  height: 22px;
+  object-fit: contain;
+  margin-top: 2px;
+}
+.footer-contact-list a {
+  color: var(--uniqo-dark-text);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+.footer-contact-list a:hover {
+  color: var(--uniqo-primary);
+  text-decoration: underline;
+}
+@media (max-width: 991px) {
+  .footer-contact-one, .footer-widget-one {
+    margin-bottom: 30px;
+  }
 }

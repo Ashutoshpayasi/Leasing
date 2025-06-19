@@ -15,129 +15,60 @@
                 <div class="footer-logo-one">
                   <img src="assets/images/lease.png" alt="logo" />
                 </div>
-                <h4>
-                  Professional & modern, a theme designed to help your business
-                  stand out from the rest.
-                </h4>
-                <p class="lead">
-                  We understand that business can be chaotic. That's where we
-                  come in. We're focused on adding.
-                </p>
               </div>
             </div>
-            <div class="col-xl-3 col-lg-4 col-md-6">
+            <div class="col-xl-5 col-lg-6 col-md-6">
               <div
                 class="footer-widget-one animate fadeInRight wow"
                 data-wow-duration="1500ms"
                 data-wow-delay="200ms"
               >
-                <h4>Services</h4>
-                <ul class="footer-menu-one">
-                  <li>
-                    <img
-                      src="assets/images/footer-icon/footer-one-1.svg"
-                      alt="icon"
-                    />
-                    <a href="Furniture-and-Fitouts.php">Furniture and Fitouts</a>
-                  </li>
-                  <li>
-                    <img
-                      src="assets/images/footer-icon/footer-one-2.svg"
-                      alt="icon"
-                    />
-                    <a href="IT-Hardware.php">IT Hardware</a>
-                  </li>
-                  <li>
-                    <img
-                      src="assets/images/footer-icon/footer-one-3.svg"
-                      alt="icon"
-                    />
-                    <a href="Plant-and-Machinery.php">Plant and Machinery</a>
-                  </li>
-                  <li>
-                    <img
-                      src="assets/images/footer-icon/footer-one-4.svg"
-                      alt="icon"
-                    />
-                    <a href="Medical-Equipment.php">Medical Equipment</a>
-                  </li>
-                  <li>
-                    <img
-                      src="assets/images/footer-icon/footer-one-5.svg"
-                      alt="icon"
-                    />
-                    <a href="Retail-Store-and-Assets.php">Retail Store and Assets</a>
-                  </li>
-                </ul>
-              </div>
-            </div>
-            <div class="col-xl-2 col-lg-4 col-md-6">
-              <div
-                class="footer-widget-one animate fadeInRight wow"
-                data-wow-duration="1500ms"
-                data-wow-delay="400ms"
-              >
                 <h4>Pages</h4>
                 <ul class="footer-menu-one">
                   <li>
-                    <img
-                      src="assets/images/footer-icon/footer-one-6.svg"
-                      alt="icon"
-                    />
+                    <img src="assets/images/footer-icon/footer-one-6.svg" alt="icon" />
                     <a href="about.php">About Us</a>
                   </li>
                   <li>
-                    <img
-                      src="assets/images/footer-icon/footer-one-7.svg"
-                      alt="icon"
-                    />
+                    <img src="assets/images/footer-icon/footer-one-7.svg" alt="icon" />
                     <a href="lease-over-loan.php">Lease Over Loan</a>
                   </li>
                   <li>
-                    <img
-                      src="assets/images/footer-icon/footer-one-8.svg"
-                      alt="icon"
-                    />
+                    <img src="assets/images/footer-icon/footer-one-8.svg" alt="icon" />
                     <a href="terms.php">Terms & Conditions</a>
                   </li>
                   <li>
-                    <img
-                      src="assets/images/footer-icon/footer-one-9.svg"
-                      alt="icon"
-                    />
+                    <img src="assets/images/footer-icon/footer-one-9.svg" alt="icon" />
                     <a href="privacy.php">Privacy Policy</a>
                   </li>
                   <li>
-                    <img
-                      src="assets/images/footer-icon/footer-one-10.svg"
-                      alt="icon"
-                    />
+                    <img src="assets/images/footer-icon/footer-one-10.svg" alt="icon" />
                     <a href="contact.php">Contact Us</a>
                   </li>
                 </ul>
               </div>
             </div>
-            <div class="col-xl-3 col-lg-4">
+            <div class="col-xl-3 col-lg-6">
               <div
-                class="footer-newslatter-one animate fadeInRight wow"
+                class="footer-contact-one animate fadeInRight wow"
                 data-wow-duration="1500ms"
                 data-wow-delay="600ms"
               >
-                <h4>Newsletter</h4>
-                <form action="#">
-                  <div class="newslatter-form-group">
-                    <input
-                      type="email"
-                      name="email"
-                      placeholder="Enter your email"
-                      class="form-control"
-                      required=""
-                    />
-                    <button type="submit" class="btn-link">
-                      <img src="assets/images/svg/arrow-link.svg" alt="icon" />
-                    </button>
-                  </div>
-                </form>
+                <h4>Contact</h4>
+                <ul class="footer-contact-list">
+                  <li>
+                    <img src="assets/images/svg/addres-icon-2.svg" alt="icon" />
+                    CS-72, 3rd floor, Ansal plaza mall, vaishali, Ghaziabad-201010
+                  </li>
+                  <li>
+                    <img src="assets/images/svg/call-icon-2.svg" alt="icon" />
+                    <a href="tel:+919971645151">+91-9971645151</a>
+                  </li>
+                  <li>
+                    <img src="assets/images/svg/mail-icon-2.svg" alt="icon" />
+                    <a href="mailto:Info@paanap.com">Info@paanap.com</a>
+                  </li>
+                </ul>
                 <ul class="footer-social-media-one">
                   <li>
                     <a href="https://www.facebook.com/"
@@ -163,13 +94,8 @@
               </div>
             </div>
             <div class="col-12">
-              <div class="footer-lower-one">
-                <p class="lead">© Copyright@ Leasegrid All rights reserved</p>
-                <ul>
-                  <li><a href="terms.php">Terms and conditions</a></li>
-                  <li><span>|</span></li>
-                  <li><a href="privacy.php">Privacy policy</a></li>
-                </ul>
+              <div class="footer-lower-one text-center">
+                <p class="lead mb-0">© Copyright@ Leasegrid All rights reserved</p>
               </div>
             </div>
           </div>
@@ -187,7 +113,7 @@
         </a>
         <div class="logo-box">
           <a href="index.php"
-            ><img width="150" src="assets/images/leasingfinal.jpg" alt="logo"
+            ><img width="150" src="assets/images/leaseWhite.png" alt="logo"
           /></a>
         </div>
         <div class="mobile-nav-container">

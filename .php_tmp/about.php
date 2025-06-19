@@ -52,7 +52,7 @@
     <!-- page header end -->
 
     <!-- About Company Section -->
-    <section class="about-main-section" style="padding: 50px 0 30px 0; background: #f9f9fb;">
+    <section class="about-main-section" style="padding: 50px 0 30px 0; background: #f9f9fb; text-align: justify;">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-10">
@@ -64,23 +64,23 @@
     </section>
 
     <!-- Vision, Mission, Goal Section -->
-    <section class="about-section-paanap" style="padding: 40px 0;">
+    <section class="about-section-paanap" style="padding: 40px 0; text-align: justify;">
         <div class="container">
             <div class="row text-center">
                 <div class="col-lg-4 mb-4 mb-lg-0">
-                    <div class="about-box" style="background: #fff; border-radius: 12px; box-shadow: 0 2px 12px #eee; padding: 30px 20px; height: 100%;">
+                    <div class="about-box" style="background: #fff; border-radius: 12px; box-shadow: 0 2px 12px #eee; padding: 30px 20px; height: 100%; text-align: justify;">
                         <h3 style="color: var(--uniqo-primary);">Vision</h3>
                         <p>Our vision is to be a top trusted leader and partner with flexible, customized leasing solutions. We strive to be the best by meeting every asset need. We approach clients in complete transparency, providing a lifecycle solution and ongoing support.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 mb-4 mb-lg-0">
-                    <div class="about-box" style="background: #fff; border-radius: 12px; box-shadow: 0 2px 12px #eee; padding: 30px 20px; height: 100%;">
+                    <div class="about-box" style="background: #fff; border-radius: 12px; box-shadow: 0 2px 12px #eee; padding: 30px 20px; height: 100%; text-align: justify;">
                         <h3 style="color: var(--uniqo-primary);">Mission</h3>
                         <p>Our mission is to provide innovative and flexible leasing solutions that empower businesses to grow and succeed. We are committed to delivering exceptional service, building long-term relationships, and creating value for our clients through our expertise and dedication.</p>
                     </div>
                 </div>
                 <div class="col-lg-4">
-                    <div class="about-box" style="background: #fff; border-radius: 12px; box-shadow: 0 2px 12px #eee; padding: 30px 20px; height: 100%;">
+                    <div class="about-box" style="background: #fff; border-radius: 12px; box-shadow: 0 2px 12px #eee; padding: 30px 20px; height: 100%; text-align: justify;">
                         <h3 style="color: var(--uniqo-primary);">Goal</h3>
                         <p>Our goal is to be the preferred leasing partner for businesses across industries, known for our reliability, innovation, and customer-centric approach. We aim to continuously improve our services and expand our reach to help more businesses achieve their objectives.</p>
                     </div>
@@ -90,31 +90,14 @@
     </section>
 
     <!-- Business Entities Section -->
-    <section class="about-entities-section" style="padding: 40px 0; background: #f9f9fb;">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 mb-4 mb-lg-0">
-                    <div class="entity-box" style="background: #fff; border-radius: 12px; box-shadow: 0 2px 12px #eee; padding: 30px 20px;">
-                        <h4 style="color: var(--uniqo-primary);">Leasegrid Connect Private Limited</h4>
-                        <p>Engaged into leasing of Vehicle and Equipment.</p>
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="entity-box" style="background: #fff; border-radius: 12px; box-shadow: 0 2px 12px #eee; padding: 30px 20px;">
-                        <h4 style="color: var(--uniqo-primary);">Leasegrid Advisors LLP</h4>
-                        <p>Engaged into financial consultancy to corporates for products i.e. Short term funding, Bill Discounting, Term loans, supply chain financing, and working capital.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+        
 
     <!-- Asset Solutions Section -->
-    <section class="about-asset-section" style="padding: 40px 0;">
+    <section class="about-asset-section" style="padding: 40px 0; text-align: justify;">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-8">
-                    <div class="asset-box" style="background: #fff; border-radius: 12px; box-shadow: 0 2px 12px #eee; padding: 30px 20px; text-align: center;">
+                    <div class="asset-box" style="background: #fff; border-radius: 12px; box-shadow: 0 2px 12px #eee; padding: 30px 20px; text-align: center; text-align: justify;">
                         <h4 style="color: var(--uniqo-primary);">Leasegrid</h4>
                         <p>Providing unmatched leasing solutions for various asset classes. Optimize your cash flow with tailored leasing plans.</p>
                     </div>
@@ -182,7 +165,7 @@
                             <h2 class="heading-title animate fadeInUp wow" data-wow-duration="1500ms" data-wow-delay="200ms">Our Specialised <span>Solutions</span></h2>
                         </div>
                         <div class="about-details-one animate fadeInUp wow" data-wow-duration="1500ms" data-wow-delay="300ms">
-                            <p class="lead">Leasegrid is a company decked with veteran professionals who provide unparalleled leasing solutions. We provide complete Aseet Lifecycle Solutions, which are tailored to suit client's requirements. No matter what asset class you need to procure,we can assist you by customizing our solutions to help you optimize your cash flow. Whether you are looking for Plant and Machinery, servers ,furniture, electronics devices or any other kind of asset, PAPL can provide it to you on lease. PAPL is one of the provider of comprehensive leasing solutions for all your requirement.</p>
+                            <p class="lead" style="text-align: justify;">Leasegrid is a company decked with veteran professionals who provide unparalleled leasing solutions. We provide complete Aseet Lifecycle Solutions, which are tailored to suit client's requirements. No matter what asset class you need to procure,we can assist you by customizing our solutions to help you optimize your cash flow. Whether you are looking for Plant and Machinery, servers ,furniture, electronics devices or any other kind of asset, PAPL can provide it to you on lease. PAPL is one of the provider of comprehensive leasing solutions for all your requirement.</p>
                         </div>
                         <a href="our-specialised-solutions.php" class="btn btn-secondary btn-theme">Learn More <span>+</span></a>
                     </div>
@@ -324,9 +307,9 @@
                 <div class="col-lg-4">
                     <div class="why-choose-left-five animate fadeInLeft wow" data-wow-duration="1500ms" data-wow-delay="200ms">
                         <div class="heading-box">
-                            <h2 class="heading-title">Customers are served behind the <span>digital marketing</span></h2>
+                            <h2 class="heading-title">Leasing <span>Assets</span></h2>
                         </div>
-                        <p class="lead">Leasegrido offers full range of consultancy & training for data consultation strategic ways for business.</p>
+                        <p class="lead">Leasegrid offers a full range of consultancy & training for data consultation and strategic business solutions.</p>
                         <a href="about.php" class="btn btn-light btn-theme">View More <span>+</span></a>
                     </div>
                 </div>
@@ -338,12 +321,11 @@
                                     <div class="why-choose-box-icon">
                                         <div class="circleGraphic" data-circle-options='{
                                            "color": "#C9A885",
-                                           "value": 45
+                                           "value": 85
                                          }'></div>
-                                        <span>45%</span>
+                                        <span>85%</span>
                                     </div>
-                                    <h4>Business Development</h4>
-                                    <p>Consistently ranked among the top consulting firms across the nation.</p>
+                                    <h4>Transportation Assets</h4>
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-4">
@@ -351,12 +333,11 @@
                                     <div class="why-choose-box-icon">
                                         <div class="circleGraphic" data-circle-options='{
                                            "color": "#C9A885",
-                                           "value": 65
+                                           "value": 70
                                          }'></div>
-                                        <span>65%</span>
+                                        <span>70%</span>
                                     </div>
-                                    <h4>Financial Reporting</h4>
-                                    <p>Dedicated to providing personal attention to all our clients.</p>
+                                    <h4>IT And Hardware</h4>
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-4">
@@ -364,12 +345,11 @@
                                     <div class="why-choose-box-icon">
                                         <div class="circleGraphic" data-circle-options='{
                                            "color": "#C9A885",
-                                           "value": 85
+                                           "value": 65
                                          }'></div>
-                                        <span>85%</span>
+                                        <span>65%</span>
                                     </div>
-                                    <h4>Investment Analysis</h4>
-                                    <p>We take pride fighting for individuals, not big insurance companies.</p>
+                                    <h4>Plant and Machinery</h4>
                                 </div>
                             </div>
                         </div>

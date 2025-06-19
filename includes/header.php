@@ -6,15 +6,15 @@
    <div class="preloader">
      <div class="loading-container">
        <div class="loading-image">
-         <img src="assets/images/loader.png" alt="logo">
-         <div class="logo-text">
+         <img src="assets/images/leaseWhite.png" alt="logo">
+         <!-- <div class="logo-text">
            <h1>Leasegrid</h1>
-         </div>
+         </div> -->
        </div>
      </div>
    </div>
 
-   <div class="topbar-one">
+   <!-- <div class="topbar-one">
      <div class="container-fluid">
        <div class="topbar-one-inner">
          <ul class="topbar-left-one">
@@ -50,13 +50,13 @@
          </div>
        </div>
      </div>
-   </div>
+   </div> -->
    <header class="main-header">
      <div class="container-fluid">
        <nav class="main-menu">
          <div class="main-menu-logo">
            <a href="index.php">
-             <img src="assets/images/lease.png" alt="header-logo" />
+             <img src="assets/images/leaseWhite.png" alt="header-logo" />
            </a>
          </div>
          <div class="main-menu-inner">

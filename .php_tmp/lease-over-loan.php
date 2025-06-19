@@ -60,6 +60,7 @@
         margin-bottom: 40px;
         border: 1px solid #e0e0e0;
         background: #fff;
+        font-size: 1rem;
     }
 
     .comparison-table th {
@@ -76,6 +77,11 @@
         padding: 15px;
         border: 1px solid #e0e0e0;
         vertical-align: middle;
+        background: #fff;
+    }
+
+    .comparison-table tr:nth-child(even) td {
+        background: #f7f7f7;
     }
 
     .feature-column {
@@ -85,13 +91,10 @@
         width: 30%;
     }
 
-    .leasing-column {
-        color: var(--uniqo-primary);
-        font-weight: 400;
-    }
-
+    /* Remove text color from leasing/loan columns for simplicity */
+    .leasing-column,
     .loan-column {
-        color: var(--uniqo-light-text);
+        color: inherit;
         font-weight: 400;
     }
 
@@ -272,74 +275,100 @@
         </div>
         <div id="slider-info"></div>
     </div>
-
     <div class="container">
-        <div class="header">
-            <h1>Lease Over Loan</h1>
-            <p>Discover the Advantages of Leasing with <span class="highlight">Leasegrid</span></p>
+    <div class="header">
+        <h1>Lease Over Loan</h1>
+        <p>Discover the Advantages of Leasing with <span class="highlight">Leasegrid</span></p>
+    </div>
+
+    <div class="table-container">
+        <div class="table-wrapper">
+            <table class="comparison-table">
+                <thead>
+                    <tr>
+                        <th>Feature</th>
+                        <th>Leasing</th>
+                        <th>Loan</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="feature-column">Definition</td>
+                        <td class="leasing-column">Lease is a contract where the lessor allows the lessee to use an asset for a specific period in return for a periodic payment.</td>
+                        <td class="loan-column">Loan is borrowing funds from financial institutions by an individual or organization.</td>
+                    </tr>
+                    <tr>
+                        <td class="feature-column">Types</td>
+                        <td class="leasing-column">Finance Lease & Operating Lease.</td>
+                        <td class="loan-column">Home, Education, SME, and other types of loans.</td>
+                    </tr>
+                    <tr>
+                        <td class="feature-column">Interest Components</td>
+                        <td class="leasing-column">Rates are usually fixed unless stated otherwise.</td>
+                        <td class="loan-column">Interests can be fixed or floating.</td>
+                    </tr>
+                    <tr>
+                        <td class="feature-column">Collateral</td>
+                        <td class="leasing-column">Collateral is only the asset being leased.</td>
+                        <td class="loan-column">Collateral is pledged by the borrower as loan security.</td>
+                    </tr>
+                    <tr>
+                        <td class="feature-column">Loan Seekers</td>
+                        <td class="leasing-column">Ideal for businesses needing equipment without purchasing upfront.</td>
+                        <td class="loan-column">Requires longer documentation and approval time.</td>
+                    </tr>
+                    <tr>
+                        <td class="feature-column">Initial Costs</td>
+                        <td class="leasing-column">Lower initial costs with little to no down payment.</td>
+                        <td class="loan-column">Significant upfront investment required.</td>
+                    </tr>
+                    <tr>
+                        <td class="feature-column">Payment Flexibility</td>
+                        <td class="leasing-column">Fixed lease payments for better budget planning.</td>
+                        <td class="loan-column">Variable payments depending on interest rates.</td>
+                    </tr>
+                    <tr>
+                        <td class="feature-column">Credit Preservation</td>
+                        <td class="leasing-column">Keeps credit lines intact for other investments.</td>
+                        <td class="loan-column">Uses up available credit lines.</td>
+                    </tr>
+                    <tr>
+                        <td class="feature-column">Equipment Updates</td>
+                        <td class="leasing-column">Regular upgrades to latest technology.</td>
+                        <td class="loan-column">Stuck with outdated equipment until paid off.</td>
+                    </tr>
+                    <tr>
+                        <td class="feature-column">Tax Benefits</td>
+                        <td class="leasing-column">Lease payments often fully deductible as business expenses.</td>
+                        <td class="loan-column">Limited tax benefits.</td>
+                    </tr>
+                    <tr>
+                        <td class="feature-column">Maintenance</td>
+                        <td class="leasing-column">Many leases include maintenance and support.</td>
+                        <td class="loan-column">Maintenance costs are the responsibility of the owner.</td>
+                    </tr>
+                    <tr>
+                        <td class="feature-column">Cash Flow</td>
+                        <td class="leasing-column">Spreads cost over the useful life of the equipment.</td>
+                        <td class="loan-column">Large upfront costs impact cash flow.</td>
+                    </tr>
+                    <tr>
+                        <td class="feature-column">Approval Process</td>
+                        <td class="leasing-column">Generally easier and faster approval.</td>
+                        <td class="loan-column">Stricter credit requirements and longer approval times.</td>
+                    </tr>
+                </tbody>
+            </table>
         </div>
 
-        <div class="table-container">
-            <div class="table-wrapper">
-                <table class="comparison-table">
-                    <thead>
-                        <tr>
-                            <th>Feature</th>
-                            <th>Leasing</th>
-                            <th>Loan</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td class="feature-column">Initial Costs</td>
-                            <td class="leasing-column">Lower initial costs with little to no down payment.</td>
-                            <td class="loan-column">Significant upfront investment required.</td>
-                        </tr>
-                        <tr>
-                            <td class="feature-column">Payment Flexibility</td>
-                            <td class="leasing-column">Fixed lease payments for better budget planning.</td>
-                            <td class="loan-column">Variable payments depending on interest rates.</td>
-                        </tr>
-                        <tr>
-                            <td class="feature-column">Credit Preservation</td>
-                            <td class="leasing-column">Keeps credit lines intact for other investments.</td>
-                            <td class="loan-column">Uses up available credit lines.</td>
-                        </tr>
-                        <tr>
-                            <td class="feature-column">Equipment Updates</td>
-                            <td class="leasing-column">Regular upgrades to latest technology.</td>
-                            <td class="loan-column">Stuck with outdated equipment until paid off.</td>
-                        </tr>
-                        <tr>
-                            <td class="feature-column">Tax Benefits</td>
-                            <td class="leasing-column">Lease payments often fully deductible as business expenses.</td>
-                            <td class="loan-column">Limited tax benefits.</td>
-                        </tr>
-                        <tr>
-                            <td class="feature-column">Maintenance</td>
-                            <td class="leasing-column">Many leases include maintenance and support.</td>
-                            <td class="loan-column">Maintenance costs are the responsibility of the owner.</td>
-                        </tr>
-                        <tr>
-                            <td class="feature-column">Cash Flow</td>
-                            <td class="leasing-column">Spreads cost over the useful life of the equipment.</td>
-                            <td class="loan-column">Large upfront costs impact cash flow.</td>
-                        </tr>
-                        <tr>
-                            <td class="feature-column">Approval Process</td>
-                            <td class="leasing-column">Generally easier and faster approval.</td>
-                            <td class="loan-column">Stricter credit requirements and longer approval times.</td>
-                        </tr>
-                    </tbody>
-                </table>
-            </div>
-            <div class="cta-section">
-                <h2>Choose Leasing with Connect Lease</h2>
-                <p>Make the smart financial choice. Choose leasing over loans and unlock the full potential of your business with Leasegrid.</p>
-                <a href="#" class="cta-button">Get Started Today</a>
-            </div>
+        <div class="cta-section">
+            <h2>Choose Leasing with Connect Lease</h2>
+            <p>Make the smart financial choice. Choose leasing over loans and unlock the full potential of your business with Leasegrid.</p>
+            <a href="#" class="cta-button">Get Started Today</a>
         </div>
     </div>
+</div>
+
 
 
         <?php include 'includes/footer.php'; ?>
