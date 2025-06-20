@@ -30,23 +30,19 @@
     <?php include('./includes/header.php');?>
     <!-- header end -->
     <!-- page header start -->
-    <div class="page-header-section" style="background-image: url(assets/images/background/contact-page-bg.jpg);">
+    <div class="page-header-section" style="background-image: url(assets/images/background/banner-one-image.jpg); background-size: cover; background-position: center; min-height: 350px; display: flex; align-items: center;">
         <div class="container">
             <div class="row">
-                <div class="col-xl-6 col-lg-8">
-                    <div class="page-header-heading animate fadeInLeft wow" data-wow-duration="2000ms">
-                        <h2>Contact Us</h2>
-                        <p class="lead">Leverage agile frameworks to provide a robust synopsis for high level overviews.
-                            Iterative approaches to collaborative .</p>
+                <div class="col-xl-8 col-lg-10 m-auto text-center">
+                    <div class="page-header-heading animate fadeInUp wow" data-wow-duration="2000ms">
+                        <h2 class="display-4" style="color: var(--uniqo-light); margin-bottom: 18px; font-weight: 700;">Contact Leasegrid</h2>
+                        <p class="lead" style="color: var(--uniqo-light); font-size: 1.3rem;">We're here to help you with your business inquiries, partnerships, or support needs. Reach out and our team will respond promptly.</p>
                     </div>
                 </div>
             </div>
-            <ul class="breadcrumb">
+            <ul class="breadcrumb justify-content-center">
                 <li>
                     <a href="index.php">Home</a>
-                </li>
-                <li>
-                    <img src="assets/images/about/arrow-brudcrumb.svg" alt="icon">
                 </li>
                 <li>
                     <span>Contact Us</span>
@@ -54,129 +50,86 @@
             </ul>
         </div>
     </div>
-    <!-- page header start -->
-    <!-- contact  start -->
-    <div class="contact-section">
+    <!-- page header end -->
+    <!-- contact start -->
+    <div class="contact-section" style="background: rgba(250,250,250,0.95); padding: 80px 0 60px 0;">
         <div class="container">
-            <div class="row">
-                <div class="col-xl-5 col-lg-6">
+            <div class="row align-items-center">
+                <div class="col-xl-5 col-lg-6 mb-5 mb-lg-0">
                     <div class="contact-info animate fadeInLeft wow" data-wow-duration="1500ms" data-wow-delay="200ms">
-                        <div class="heading-box">
+                        <div class="heading-box mb-4">
                             <span class="sub-title animate fadeInUp wow" data-wow-duration="1500ms">Contact</span>
-                            <h2 class="heading-title animate fadeInUp wow" data-wow-duration="1500ms"
-                                data-wow-delay="200ms">Get free business consultation Today</h2>
+                            <h2 class="heading-title animate fadeInUp wow" data-wow-duration="1500ms" data-wow-delay="200ms">Let's Connect</h2>
+                            <p class="text-muted">Get a free business consultation today or simply send us your query.</p>
                         </div>
-                        <ul>
-                            <li>
-                                <img src="assets/images/svg/addres-icon-2.svg" alt="icon">
-                                <div class="contact-title">
-                                    <h6>Address Business</h6>
-                                    <p>2220 Plymouth Rd #302 Hopkins, Minnesota(MN), 55305 </p>
+                        <ul class="list-unstyled">
+                            <li class="d-flex align-items-start mb-4">
+                                <img src="assets/images/svg/addres-icon-2.svg" alt="icon" class="me-3" style="width: 32px;">
+                                <div>
+                                    <h6 class="mb-1">Address</h6>
+                                    <p class="mb-0">CS-72, 3rd floor, Ansal Plaza Mall, Vaishali, Ghaziabad-201010</p>
                                 </div>
                             </li>
-                            <li>
-                                <img src="assets/images/svg/mail-icon-2.svg" alt="icon">
-                                <div class="contact-title">
-                                    <h6>Email Address</h6>
-                                    <a href="mailto:uniqoconsulting@gmail.com">uniqoconsulting@gmail.com</a>
-                                    <a
-                                        href="mailto:uniqoconsultingcareers@gmail.com">uniqoconsultingcareers@gmail.com</a>
+                            <li class="d-flex align-items-start mb-4">
+                                <img src="assets/images/svg/mail-icon-2.svg" alt="icon" class="me-3" style="width: 32px;">
+                                <div>
+                                    <h6 class="mb-1">Email</h6>
+                                    <a href="mailto:Info@paanap.com">Info@paanap.com</a>
                                 </div>
                             </li>
-                            <li>
-                                <img src="assets/images/svg/call-icon-2.svg" alt="icon">
-                                <div class="contact-title">
-                                    <h6>Phone Number</h6>
-                                    <a href="telto:(234) 109-6666">Call Consulting: (234) 109-6666</a>
-                                    <a href="telto:(234) 244-8888">Call Cooperate: (234) 244-8888</a>
+                            <li class="d-flex align-items-start mb-4">
+                                <img src="assets/images/svg/call-icon-2.svg" alt="icon" class="me-3" style="width: 32px;">
+                                <div>
+                                    <h6 class="mb-1">Phone</h6>
+                                    <a href="tel:+919971645151">+91-9971645151</a>
                                 </div>
                             </li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-xl-7 col-lg-6">
-                    <div class="contact-form animate fadeInRight wow" data-wow-duration="1500ms" data-wow-delay="200ms">
+                    <div class="contact-form animate fadeInRight wow p-4 p-md-5 shadow rounded bg-white" data-wow-duration="1500ms" data-wow-delay="200ms">
                         <form action="#">
-                            <div class="form-group">
-                                <input type="text" name="name" class="form-control" placeholder="Name">
-                                <input type="email" name="email" class="form-control" placeholder="Email">
+                            <div class="row g-3">
+                                <div class="col-md-6">
+                                    <input type="text" name="name" class="form-control" placeholder="Name">
+                                </div>
+                                <div class="col-md-6">
+                                    <input type="email" name="email" class="form-control" placeholder="Email">
+                                </div>
+                                <div class="col-md-6">
+                                    <input type="number" name="number" class="form-control" placeholder="Phone number">
+                                </div>
+                                <div class="col-md-6">
+                                    <input type="text" name="need" class="form-control" placeholder="What are your needs?">
+                                </div>
+                                <div class="col-12">
+                                    <textarea name="message" class="form-control" placeholder="Message" rows="4"></textarea>
+                                </div>
+                                <div class="col-12 text-end">
+                                    <button type="submit" class="btn btn-secondary btn-theme px-5 py-2">Send</button>
+                                </div>
                             </div>
-                            <div class="form-group">
-                                <input type="number" name="number" class="form-control" placeholder="Phone number">
-                                <input type="text" name="need" class="form-control" placeholder="what are you needs">
-                            </div>
-                            <div class="form-group">
-                                <textarea name="message" class="form-control" placeholder="Message" rows="4"></textarea>
-                            </div>
-                            <button type="submit" class="btn btn-secondary btn-theme">Send</button>
                         </form>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <!-- service  end -->
-    <!-- location  start -->
-    <div class="location-section">
-        <div class="container">
-            <div class="row gutter-y-30">
-                <div class="col-lg-4 col-md-6 animate fadeInRight wow" data-wow-duration="1500ms" data-wow-delay="200ms">
-                    <div class="contact-box" style="background-image: url(assets/images/background/location-1.jpg);">
-                        <div class="contact-details">
-                            <h4>Washington, D.C.</h4>
-                            <p>2220 Plymouth Rd #302 Hopkins, Minnesota(MN), 55305</p>
-                            <a href="telto:+ 123 4567 89 000">+ 123 4567 89 000</a>
-                            <a href="mailto:uniqoconsulting@gmail.com">uniqoconsulting@gmail.com</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6  animate fadeInRight wow" data-wow-duration="1500ms" data-wow-delay="400ms">
-                    <div class="contact-box" style="background-image: url(assets/images/background/location-2.jpg);">
-                        <div class="contact-details">
-                            <h4>Los Angeles City</h4>
-                            <p>2220 Plymouth Rd #302 Hopkins, Minnesota(MN), 55305</p>
-                            <a href="telto:+ 123 4567 89 000">+ 123 4567 89 000</a>
-                            <a href="mailto:uniqoconsulting@gmail.com">uniqoconsulting@gmail.com</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6  animate fadeInRight wow" data-wow-duration="1500ms" data-wow-delay="600ms">
-                    <div class="contact-box" style="background-image: url(assets/images/background/location-3.jpg);">
-                        <div class="contact-details">
-                            <h4>New York City</h4>
-                            <p>2220 Plymouth Rd #302 Hopkins, Minnesota(MN), 55305</p>
-                            <a href="telto:+ 123 4567 89 000">+ 123 4567 89 000</a>
-                            <a href="mailto:uniqoconsulting@gmail.com">uniqoconsulting@gmail.com</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- location  end -->
-    <!-- map  start -->
-    <div class="map-section">
-        <div class="container-fluid p-0">
-            <div class="map"></div>
-        </div>
-    </div>
-    <!-- map  end -->
+    <!-- contact end -->
     <!-- cta  two start -->
     <div class="cta-section-three">
         <div class="container">
             <div class="row">
                 <div class="col-xl-8 col-lg-10 m-auto">
                     <div class="heading-box text-center">
-                        <h2 class="heading-title animate fadeInUp wow" data-wow-duration="1500ms"
-                            data-wow-delay="200ms">Sharing ideas and building brands that truly matter</h2>
+                        <h2 class="heading-title animate fadeInUp wow" data-wow-duration="1500ms" data-wow-delay="200ms">Sharing ideas and building brands that truly matter</h2>
                     </div>
-                    <a href="contact.php" class="btn btn-primary btn-theme animate fadeInUp wow"
-                        data-wow-duration="1500ms" data-wow-delay="400ms">Get Started +</a>
+                    <a href="contact.php" class="btn btn-primary btn-theme animate fadeInUp wow" data-wow-duration="1500ms" data-wow-delay="400ms">Get Started +</a>
                 </div>
             </div>
         </div>
     </div>
-
     <!-- footer one start -->
     <?php include('./includes/footer.php');?>
     <!-- top to bottom end  -->

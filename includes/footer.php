@@ -13,7 +13,7 @@
                 data-wow-duration="1500ms"
               >
                 <div class="footer-logo-one">
-                  <img src="assets/images/lease.png" alt="logo" />
+                  <img src="assets/images/leaseGridLogo.png" alt="logo" />
                 </div>
               </div>
             </div>
@@ -58,7 +58,7 @@
                 <ul class="footer-contact-list">
                   <li>
                     <img src="assets/images/svg/addres-icon-2.svg" alt="icon" />
-                    CS-72, 3rd floor, Ansal plaza mall, vaishali, Ghaziabad-201010
+                    CS-72, 3rd floor, Ansal Plaza Mall, Vaishali, Ghaziabad-201010
                   </li>
                   <li>
                     <img src="assets/images/svg/call-icon-2.svg" alt="icon" />
@@ -70,20 +70,7 @@
                   </li>
                 </ul>
                 <ul class="footer-social-media-one">
-                  <li>
-                    <a href="https://www.facebook.com/"
-                      ><i class="fa-brands fa-facebook-f"></i
-                    ></a>
-                  </li>
-                  <li>
-                    <a href="https://x.com/"
-                      ><i class="fa-brands fa-twitter"></i
-                    ></a>
-                  </li>
-                  <li>
-                    <a href="https://www.instagram.com/"
-                      ><i class="fa-brands fa-instagram"></i
-                    ></a>
+                 
                   </li>
                   <li>
                     <a href="https://in.linkedin.com/"

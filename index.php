@@ -288,7 +288,7 @@
   <!-- patner one start -->
   <div class="patner-section-one" style="background: none;">
     <div class="container-fluid p-0">
-      <div class="patner-slider-one" style="display: flex; justify-content: center; align-items: center; gap: 30px;">
+      <div class="patner-slider-one">
         <div class="patner-slide-item-one">
           <img src="assets/logo/1.png" alt="patner-logo" />
         </div>
@@ -615,55 +615,30 @@
           <div class="testimonial-slider-one">
             <div class="testimonial-item-one">
               <div class="testimonial-author-image">
-                <img
-                  src="assets/images/testimonial/testimonial-1.png"
-                  alt="author-image" />
+                <img src="assets/images/leasefinal.jpg" alt="Lease Grid Logo" />
               </div>
               <h5>
-                Vulputate mi sit amet mauris commodo quis imperdiet. Metus
-                vulputate eu felis imperdiet proin nulla aliquet enim.
+                We leased office furniture and IT equipment through Lease Grid, and the experience was seamless. Their team was responsive, transparent, and fast which made the entire process quite smooth.
               </h5>
-              <img src="assets/images/svg/cote.svg" alt="icon" />
-              <p>John Doue , Digital marketing</p>
+              <p>-Mr.Kamlesh Kaushik</p>
             </div>
             <div class="testimonial-item-one">
               <div class="testimonial-author-image">
-                <img
-                  src="assets/images/testimonial/testimonial-2.png"
-                  alt="author-image" />
+                <img src="assets/images/leasefinal.jpg" alt="Lease Grid Logo" />
               </div>
               <h5>
-                Vulputate mi sit amet mauris commodo quis imperdiet. Metus
-                vulputate eu felis imperdiet proin nulla aliquet enim.
+                Thanks to Lease Grid, we were able to scale our transportation needs without blocking capital. Their maintenance support is also top-notch &amp; the process was fast and hassle-free.
               </h5>
-              <img src="assets/images/svg/cote.svg" alt="icon" />
-              <p>Neil Patel , Social Media Marketing</p>
+              <p>-Mr.Abhishek Kumar<br />Bluetrans</p>
             </div>
             <div class="testimonial-item-one">
               <div class="testimonial-author-image">
-                <img
-                  src="assets/images/testimonial/testimonial-3.png"
-                  alt="author-image" />
+                <img src="assets/images/leasefinal.jpg" alt="Lease Grid Logo" />
               </div>
               <h5>
-                Vulputate mi sit amet mauris commodo quis imperdiet. Metus
-                vulputate eu felis imperdiet proin nulla aliquet enim.
+                The automation tools and plant equipment we leased for our EV facility were delivered on time and ready to plug into production. Great service and coordination from the team.
               </h5>
-              <img src="assets/images/svg/cote.svg" alt="icon" />
-              <p>Rand Fishkin , Content Marketing</p>
-            </div>
-            <div class="testimonial-item-one">
-              <div class="testimonial-author-image">
-                <img
-                  src="assets/images/testimonial/testimonial-4.png"
-                  alt="author-image" />
-              </div>
-              <h5>
-                Vulputate mi sit amet mauris commodo quis imperdiet. Metus
-                vulputate eu felis imperdiet proin nulla aliquet enim.
-              </h5>
-              <img src="assets/images/svg/cote.svg" alt="icon" />
-              <p>Mari Smith , SEO</p>
+              <p>-Mr.Gaurav Verma<br />Hylif innovations;<br /></p>
             </div>
           </div>
         </div>
@@ -830,58 +805,11 @@
             <div class="team-image-one">
               <a href="team.php"><img src="assets/images/team/team-1.png" alt="team-image" /></a>
             </div>
-            <div class="team-details-one">
-              <h4><a href="team.php">Alex Jason</a></h4>
-              <p>Finance consultant</p>
-            </div>
-            <ul class="team-social-media-one">
-              <li>
-                <a href="https://www.facebook.com/"><img src="assets/images/svg/header/Fb.svg" alt="icon" /></a>
-              </li>
-              <li>
-                <a href="https://x.com/"><img src="assets/images/svg/header/Twiter.svg" alt="icon" /></a>
-              </li>
-              <li>
-                <a href="https://www.instagram.com/"><img src="assets/images/svg/header/Insta.svg" alt="icon" /></a>
-              </li>
-              <li>
-                <a href="https://www.pinterest.com/"><img
-                    src="assets/images/svg/header/Pintrest.svg"
-                    alt="icon" /></a>
-              </li>
-            </ul>
+            
+            
           </div>
         </div>
-        <div class="col-lg-4 col-md-6">
-          <div
-            class="team-box-one animate fadeInUp wow"
-            data-wow-duration="1500ms"
-            data-wow-delay="400ms">
-            <div class="team-image-one">
-              <a href="team.php"><img src="assets/images/team/team-4.png" alt="team-image" /></a>
-            </div>
-            <div class="team-details-one">
-              <h4><a href="team.php">Martin Doe</a></h4>
-              <p>Sale Director</p>
-            </div>
-            <ul class="team-social-media-one">
-              <li>
-                <a href="https://www.facebook.com/"><img src="assets/images/svg/header/Fb.svg" alt="icon" /></a>
-              </li>
-              <li>
-                <a href="https://x.com/"><img src="assets/images/svg/header/Twiter.svg" alt="icon" /></a>
-              </li>
-              <li>
-                <a href="https://www.instagram.com/"><img src="assets/images/svg/header/Insta.svg" alt="icon" /></a>
-              </li>
-              <li>
-                <a href="https://www.pinterest.com/"><img
-                    src="assets/images/svg/header/Pintrest.svg"
-                    alt="icon" /></a>
-              </li>
-            </ul>
-          </div>
-        </div>
+       
         <div class="col-lg-4 col-md-6">
           <div
             class="team-box-one animate fadeInUp wow"
@@ -890,58 +818,11 @@
             <div class="team-image-one">
               <a href="team.php"><img src="assets/images/team/team-3.png" alt="team-image" /></a>
             </div>
-            <div class="team-details-one">
-              <h4><a href="team.php">Richard Divas</a></h4>
-              <p>Business Advisor</p>
-            </div>
-            <ul class="team-social-media-one">
-              <li>
-                <a href="https://www.facebook.com/"><img src="assets/images/svg/header/Fb.svg" alt="icon" /></a>
-              </li>
-              <li>
-                <a href="https://x.com/"><img src="assets/images/svg/header/Twiter.svg" alt="icon" /></a>
-              </li>
-              <li>
-                <a href="https://www.instagram.com/"><img src="assets/images/svg/header/Insta.svg" alt="icon" /></a>
-              </li>
-              <li>
-                <a href="https://www.pinterest.com/"><img
-                    src="assets/images/svg/header/Pintrest.svg"
-                    alt="icon" /></a>
-              </li>
-            </ul>
+          
+           
           </div>
         </div>
-        <div class="col-lg-4 col-md-6">
-          <div
-            class="team-box-one animate fadeInUp wow"
-            data-wow-duration="1500ms"
-            data-wow-delay="800ms">
-            <div class="team-image-one">
-              <a href="team.php"><img src="assets/images/team/team-5.png" alt="team-image" /></a>
-            </div>
-            <div class="team-details-one">
-              <h4><a href="team.php">Monalis</a></h4>
-              <p>Manager</p>
-            </div>
-            <ul class="team-social-media-one">
-              <li>
-                <a href="https://www.facebook.com/"><img src="assets/images/svg/header/Fb.svg" alt="icon" /></a>
-              </li>
-              <li>
-                <a href="https://x.com/"><img src="assets/images/svg/header/Twiter.svg" alt="icon" /></a>
-              </li>
-              <li>
-                <a href="https://www.instagram.com/"><img src="assets/images/svg/header/Insta.svg" alt="icon" /></a>
-              </li>
-              <li>
-                <a href="https://www.pinterest.com/"><img
-                    src="assets/images/svg/header/Pintrest.svg"
-                    alt="icon" /></a>
-              </li>
-            </ul>
-          </div>
-        </div>
+        
         <div class="col-lg-4 col-md-6">
           <div
             class="team-box-one animate fadeInUp wow"
@@ -950,26 +831,8 @@
             <div class="team-image-one">
               <a href="team.php"><img src="assets/images/team/team-2.png" alt="team-image" /></a>
             </div>
-            <div class="team-details-one">
-              <h4><a href="team.php">Sarah Hanley</a></h4>
-              <p>Product Manager</p>
-            </div>
-            <ul class="team-social-media-one">
-              <li>
-                <a href="https://www.facebook.com/"><img src="assets/images/svg/header/Fb.svg" alt="icon" /></a>
-              </li>
-              <li>
-                <a href="https://x.com/"><img src="assets/images/svg/header/Twiter.svg" alt="icon" /></a>
-              </li>
-              <li>
-                <a href="https://www.instagram.com/"><img src="assets/images/svg/header/Insta.svg" alt="icon" /></a>
-              </li>
-              <li>
-                <a href="https://www.pinterest.com/"><img
-                    src="assets/images/svg/header/Pintrest.svg"
-                    alt="icon" /></a>
-              </li>
-            </ul>
+       
+           
           </div>
         </div>
       </div>

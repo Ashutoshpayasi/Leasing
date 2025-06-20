@@ -7781,7 +7781,7 @@ ul.mobile-menu-list .dropdown ul li a {
 .page-header-section::after {
     content: "";
     position: absolute;
-    bottom: 118px;
+    /* bottom: 118px; */
     left: 0;
     height: 1px;
     width: 100%;
@@ -7792,7 +7792,7 @@ ul.mobile-menu-list .dropdown ul li a {
     margin-bottom: 117px;
     color: var(--uniqo-light);
     padding-left: 28px;
-    border-left: 1px solid #E0E0E02B;
+    /* border-left: 1px solid #E0E0E02B; */
 }
 
 .page-header-heading h2 {
@@ -7949,11 +7949,24 @@ ul.breadcrumb li a:hover {
     display: flex;
     column-gap: 30px;
     overflow: hidden;
+    align-items: stretch;
 }
 
 .service-details-image-inner {
     border-radius: 20px;
     overflow: hidden;
+    flex: 1 1 0;
+    display: flex;
+    align-items: stretch;
+    justify-content: center;
+    max-width: 50%;
+}
+
+.service-details-image-inner img {
+    width: 100%;
+    height: 260px;
+    object-fit: cover;
+    display: block;
 }
 
 .service-pagination-list {

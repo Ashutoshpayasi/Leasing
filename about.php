@@ -107,47 +107,7 @@
     </section>
     <!-- End of About Us content from paanap.com/about.html -->
 
-    <div class="about-lower">
-        <div class="container-fluid">
-            <div class="row banner-box-outer-five">
-                <div class="col-lg-6 col-md-6">
-                    <div class="banner-box-five">
-                        <div class="banner-box-icon-five">
-                            <svg width="83" height="64" viewBox="0 0 83 64" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                <path d="M60.875 32C63.1532 32 65 30.1532 65 27.875C65 25.5968 63.1532 23.75 60.875 23.75C58.5968 23.75 56.75 25.5968 56.75 27.875C56.75 30.1532 58.5968 32 60.875 32Z" fill="#3B4443" />
-                                <path d="M37.5 12.75H51.25" stroke="#3B4443" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                                <path d="M73.25 1.75H48.5" stroke="#3B4443" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                                <path d="M1.75 37.5C1.75 35.312 2.61919 33.2135 4.16637 31.6664C5.71354 30.1192 7.81196 29.25 10 29.25" stroke="#3B4443" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                                <path d="M74.7419 21H76C77.4587 21 78.8577 21.5795 79.8891 22.6109C80.9206 23.6424 81.5 25.0413 81.5 26.5V37.5C81.5 38.9587 80.9206 40.3576 79.8891 41.3891C78.8577 42.4205 77.4587 43 76 43H73.25L67.0281 60.4247C66.8373 60.9592 66.4857 61.4216 66.0217 61.7484C65.5576 62.0752 65.0038 62.2504 64.4363 62.25H60.0638C59.4962 62.2504 58.9424 62.0752 58.4783 61.7484C58.0143 61.4216 57.6627 60.9592 57.4719 60.4247L56.1622 56.75H32.5878L31.2781 60.4247C31.0873 60.9592 30.7357 61.4216 30.2717 61.7484C29.8076 62.0752 29.2538 62.2504 28.6863 62.25H24.3138C23.7462 62.2504 23.1924 62.0752 22.7283 61.7484C22.2643 61.4216 21.9127 60.9592 21.7219 60.4247L17.2188 47.8125C12.569 42.7497 9.99235 36.124 10 29.25C10 21.9565 12.8973 14.9618 18.0546 9.80456C23.2118 4.64731 30.2066 1.75 37.5 1.75H48.5C53.8663 1.74845 59.1157 3.31697 63.6015 6.26227C68.0873 9.20757 71.6133 13.401 73.745 18.3256C74.1221 19.1997 74.4549 20.0923 74.7419 21Z" stroke="#3B4443" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                            </svg>
-                        </div>
-                        <div class="banner-box-details-five">
-                            <h4>Investment Analysis</h4>
-                            <p class="lead">We approach every client relationship with a Leasegridue and invigorating perspective, coupled with an unwavering energy.</p>
-                            <a href="service-details.php" class="banner-btn-five">+</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-6">
-                    <div class="banner-box-five">
-                        <div class="banner-box-icon-five">
-                            <svg width="68" height="68" viewBox="0 0 68 68" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                <path d="M34 67C52.2254 67 67 52.2254 67 34C67 15.7746 52.2254 1 34 1C15.7746 1 1 15.7746 1 34C1 52.2254 15.7746 67 34 67Z" stroke="#3B4443" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                                <path d="M47.75 34C47.75 56 34 67 34 67C34 67 20.25 56 20.25 34C20.25 12 34 1 34 1C34 1 47.75 12 47.75 34Z" stroke="#3B4443" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                                <path d="M2.87695 23H65.1232" stroke="#3B4443" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                                <path d="M2.87695 45H65.1232" stroke="#3B4443" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-                            </svg>
-                        </div>
-                        <div class="banner-box-details-five">
-                            <h4>Global Operation</h4>
-                            <p class="lead">We approach every client relationship with a Leasegridue and invigorating perspective, coupled with an unwavering energy.</p>
-                            <a href="service-details.php" class="banner-btn-five">+</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+   
     <!-- page header start -->
     <!-- about one start -->
     <div class="about-section-one">

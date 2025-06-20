@@ -75,7 +75,7 @@
             <nav class="main-menu">
                 <div class="main-menu-logo">
                     <a href="index.php">
-                        <img src="assets/images/lease.png" alt="header-logo">
+                        <img src="assets/images/leaseWhite.png" alt="header-logo">
                     </a>
                 </div>
                 <div class="main-menu-inner">
@@ -514,7 +514,7 @@
                 <span></span>
             </a>
             <div class="logo-box">
-                <a href="index.php"><img width="150" src="assets/images/lease.png" alt="logo"></a>
+                <a href="index.php"><img width="150" src="assets/images/leaseWhite.png" alt="logo"></a>
             </div>
             <div class="mobile-nav-container">
                 <ul class="mobile-menu-list">
