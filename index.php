@@ -617,7 +617,7 @@
           <div class="testimonial-slider-one">
             <div class="testimonial-item-one">
               <div class="testimonial-author-image">
-                <img src="assets/logo/12.png" alt="Lease Grid Logo" />
+                <img src="assets/logo/12.png" alt="Lease Grid Logo" style="width: 180px; height: 100px; object-fit: contain;" />
               </div>
               <h5>
                 We leased office furniture and IT equipment through Lease Grid, and the experience was seamless. Their team was responsive, transparent, and fast which made the entire process quite smooth.
@@ -626,7 +626,7 @@
             </div>
             <div class="testimonial-item-one">
               <div class="testimonial-author-image">
-                <img src="assets/logo/11.png" alt="Lease Grid Logo" />
+                <img src="assets/logo/bluetrans2.png" alt="Lease Grid Logo" style="width: 180px; height: 100px; object-fit: contain;" />
               </div>
               <h5>
                 Thanks to Lease Grid, we were able to scale our transportation needs without blocking capital. Their maintenance support is also top-notch &amp; the process was fast and hassle-free.
@@ -635,7 +635,7 @@
             </div>
             <div class="testimonial-item-one">
               <div class="testimonial-author-image">
-                <img src="assets/logo/10.png" alt="Lease Grid Logo" />
+                <img src="assets/logo/hylif2.png" alt="Lease Grid Logo" style="width: 180px; height: 100px; object-fit: contain;" />
               </div>
               <h5>
                 The automation tools and plant equipment we leased for our EV facility were delivered on time and ready to plug into production. Great service and coordination from the team.
