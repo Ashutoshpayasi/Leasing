@@ -204,6 +204,7 @@
                     <div class="row">
                         <div class="col-xl-5 col-lg-8">
                             <div class="heading-box">
+
                                 <h1 class="heading-title">
                                     Powering Your <br />
                                     <span>Business Growth with</span> <br />
@@ -223,7 +224,7 @@
             <div class="banner-slide-item-one">
                 <div class="banner-image-one">
                     <img
-                        src="assets/images/background/banner-one-image-3.jpg"
+                        src="assets/images/background/artboard2.png"
                         alt="banner-image" />
                 </div>
                 <div class="container-fluid">
@@ -249,7 +250,7 @@
             <div class="banner-slide-item-one">
                 <div class="banner-image-one">
                     <img
-                        src="assets/images/background/banner-one-image-4.jpg"
+                        src="assets/images/about/modernoffice.jpg"
                         alt="banner-image" />
                 </div>
                 <div class="container-fluid">

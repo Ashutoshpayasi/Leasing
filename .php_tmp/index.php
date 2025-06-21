@@ -98,7 +98,7 @@
       <div class="banner-slide-item-one">
         <div class="banner-image-one">
           <img
-            src="assets/images/background/artboard4.png"
+            src="assets/images/about/modernoffice.jpg"
             alt="banner-image" />
         </div>
         <div class="container-fluid">
@@ -289,6 +289,10 @@
   <!-- patner one start -->
   <div class="patner-section-one" style="background: none;">
     <div class="container-fluid p-0">
+      <div class="heading-box text-center" style="margin: 40px 0 30px 0;">
+        <span class="sub-title" style="font-size: 18px; margin-bottom: 10px; display: block;">Trusted By</span>
+        <h2 class="heading-title" style="font-size: 32px; margin-bottom: 15px;">Leading Companies Across Industries</h2>
+      </div>
       <div class="patner-slider-one">
         <div class="patner-slide-item-one">
           <img src="assets/logo/1.png" alt="patner-logo" />
@@ -318,15 +322,14 @@
           <img src="assets/logo/9.png" alt="patner-logo" />
         </div>
         <div class="patner-slide-item-one">
-          <img src="assets/logo/10.png" alt="patner-logo" />
+          <img src="assets/logo/hylif2.png" alt="patner-logo" />
         </div>
         <div class="patner-slide-item-one">
-          <img src="assets/logo/11.png" alt="patner-logo" />
+          <img src="assets/logo/bluetrans2.png" alt="patner-logo" />
         </div>
         <div class="patner-slide-item-one">
           <img src="assets/logo/12.png" alt="patner-logo" />
         </div>
-        
       </div>
     </div>
   </div>
@@ -622,7 +625,7 @@
               <h5>
                 We leased office furniture and IT equipment through Lease Grid, and the experience was seamless. Their team was responsive, transparent, and fast which made the entire process quite smooth.
               </h5>
-              <p>-Mr.Kamlesh Kaushik <br>Avelors</p>
+              <p>-Mr.Kamlesh Kaushik <br>Avelers</p>
             </div>
             <div class="testimonial-item-one">
               <div class="testimonial-author-image">
@@ -657,14 +660,7 @@
           alt="why-choose-image" />
       </div>
     </div>
-    <div class="video-play-one">
-      <p>
-        why clients <br />
-        choose us
-      </p>
-      <a href="https://www.youtube.com/watch?v=rzfmZC3kg3M">
-        <img src="assets/images/play-icon.svg" alt="icon" /></a>
-    </div>
+  
     <div class="container">
       <div class="counter-one">
         <div class="counter-box-one">
@@ -805,10 +801,10 @@
             class="team-box-one animate fadeInUp wow"
             data-wow-duration="1500ms">
             <div class="team-image-one">
-              <a href="team.php"><img src="assets/images/team/team-1.png" alt="team-image" /></a>
+              <a href="#" data-bs-toggle="modal" data-bs-target="#teamModal1">
+                <img src="assets/images/team/team-1.png" alt="team-image" />
+              </a>
             </div>
-            
-            
           </div>
         </div>
        
@@ -818,10 +814,10 @@
             data-wow-duration="1500ms"
             data-wow-delay="600ms">
             <div class="team-image-one">
-              <a href="team.php"><img src="assets/images/team/team-3.png" alt="team-image" /></a>
+              <a href="#" data-bs-toggle="modal" data-bs-target="#teamModal2">
+                <img src="assets/images/team/team-3.png" alt="team-image" />
+              </a>
             </div>
-          
-           
           </div>
         </div>
         
@@ -831,11 +827,135 @@
             data-wow-duration="1500ms"
             data-wow-delay="1000ms">
             <div class="team-image-one">
-              <a href="team.php"><img src="assets/images/team/team-2.png" alt="team-image" /></a>
+              <a href="#" data-bs-toggle="modal" data-bs-target="#teamModal3">
+                <img src="assets/images/team/team-2.png" alt="team-image" />
+              </a>
             </div>
-       
-           
           </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Team Member Modals -->
+  <!-- Team Member 1 Modal -->
+  <div class="modal fade" id="teamModal1" tabindex="-1" aria-labelledby="teamModal1Label" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-centered">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="teamModal1Label">Sarah Johnson</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <div class="row">
+            <div class="col-md-4">
+              <img src="assets/images/team/team-1.png" alt="Sarah Johnson" class="img-fluid rounded mb-3">
+            </div>
+            <div class="col-md-8">
+              <h4>Sarah Johnson</h4>
+              <p class="text-muted mb-3"><strong>Chief Executive Officer</strong></p>
+              <p class="mb-3">Sarah brings over 15 years of experience in the leasing industry, having worked with Fortune 500 companies and startups alike. She specializes in strategic business development and has led Leasegrid to become a market leader in asset leasing solutions.</p>
+              <div class="team-details">
+                <h6>Expertise:</h6>
+                <ul class="list-unstyled">
+                  <li><i class="fas fa-check text-success me-2"></i>Strategic Planning & Business Development</li>
+                  <li><i class="fas fa-check text-success me-2"></i>Financial Management & Risk Assessment</li>
+                  <li><i class="fas fa-check text-success me-2"></i>Client Relationship Management</li>
+                  <li><i class="fas fa-check text-success me-2"></i>Market Analysis & Growth Strategy</li>
+                </ul>
+                <h6>Education:</h6>
+                <p>MBA in Finance, Harvard Business School</p>
+                <h6>Experience:</h6>
+                <p>15+ years in Financial Services & Leasing</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+          <a href="contact.php" class="btn btn-primary">Contact Us</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Team Member 2 Modal -->
+  <div class="modal fade" id="teamModal2" tabindex="-1" aria-labelledby="teamModal2Label" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-centered">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="teamModal2Label">Michael Chen</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <div class="row">
+            <div class="col-md-4">
+              <img src="assets/images/team/team-3.png" alt="Michael Chen" class="img-fluid rounded mb-3">
+            </div>
+            <div class="col-md-8">
+              <h4>Michael Chen</h4>
+              <p class="text-muted mb-3"><strong>Chief Technology Officer</strong></p>
+              <p class="mb-3">Michael is a technology visionary with expertise in digital transformation and fintech solutions. He leads our technology initiatives, ensuring Leasegrid stays at the forefront of digital leasing platforms and customer experience innovation.</p>
+              <div class="team-details">
+                <h6>Expertise:</h6>
+                <ul class="list-unstyled">
+                  <li><i class="fas fa-check text-success me-2"></i>Digital Platform Development</li>
+                  <li><i class="fas fa-check text-success me-2"></i>Fintech Solutions & Integration</li>
+                  <li><i class="fas fa-check text-success me-2"></i>Data Analytics & AI Implementation</li>
+                  <li><i class="fas fa-check text-success me-2"></i>Cybersecurity & Compliance</li>
+                </ul>
+                <h6>Education:</h6>
+                <p>MS in Computer Science, Stanford University</p>
+                <h6>Experience:</h6>
+                <p>12+ years in Technology & Fintech</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+          <a href="contact.php" class="btn btn-primary">Contact Us</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Team Member 3 Modal -->
+  <div class="modal fade" id="teamModal3" tabindex="-1" aria-labelledby="teamModal3Label" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-centered">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="teamModal3Label">Emily Rodriguez</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <div class="row">
+            <div class="col-md-4">
+              <img src="assets/images/team/team-2.png" alt="Emily Rodriguez" class="img-fluid rounded mb-3">
+            </div>
+            <div class="col-md-8">
+              <h4>Emily Rodriguez</h4>
+              <p class="text-muted mb-3"><strong>Head of Operations</strong></p>
+              <p class="mb-3">Emily oversees all operational aspects of Leasegrid, ensuring seamless service delivery and customer satisfaction. With her background in operations management, she has streamlined our processes and improved efficiency across all departments.</p>
+              <div class="team-details">
+                <h6>Expertise:</h6>
+                <ul class="list-unstyled">
+                  <li><i class="fas fa-check text-success me-2"></i>Operations Management & Optimization</li>
+                  <li><i class="fas fa-check text-success me-2"></i>Customer Service Excellence</li>
+                  <li><i class="fas fa-check text-success me-2"></i>Process Improvement & Quality Control</li>
+                  <li><i class="fas fa-check text-success me-2"></i>Team Leadership & Training</li>
+                </ul>
+                <h6>Education:</h6>
+                <p>MBA in Operations Management, Wharton School</p>
+                <h6>Experience:</h6>
+                <p>10+ years in Operations & Customer Service</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+          <a href="contact.php" class="btn btn-primary">Contact Us</a>
         </div>
       </div>
     </div>
