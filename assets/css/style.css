@@ -1417,11 +1417,27 @@ span.sub-title {
     transition: all 0.8s;
     border-radius: 100%;
     z-index: -1;
+    image-rendering: -webkit-optimize-contrast;
+    image-rendering: crisp-edges;
 }
 
 .process-icon-one {
     margin-bottom: 30px;
     position: relative;
+    width: 60px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.process-icon-one img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    transition: all 0.5s;
+    image-rendering: -webkit-optimize-contrast;
+    image-rendering: crisp-edges;
 }
 
 .process-box-one h4 {
@@ -1468,13 +1484,8 @@ span.sub-title {
     width: 0%;
     border-radius: 100%;
     transition: all 0.8s ease;
-    background: linear-gradient(180deg, rgba(59, 68, 67, 0) 0%, rgba(59, 68, 67, 0.42) 100%);
-    backdrop-filter: blur(10px);
-    /* background-size: cover;
-    background-position: center;
-    background-color: #3B444385;
-    background-blend-mode: overlay;
-    filter: blur(4px); */
+    background: linear-gradient(180deg, rgba(59, 68, 67, 0) 0%, rgba(59, 68, 67, 0.25) 100%);
+    /* Removed backdrop-filter: blur(10px); for clearer images */
 }
 
 .process-box-one:hover::before {
@@ -1483,7 +1494,8 @@ span.sub-title {
 }
 
 .process-box-one:hover .process-icon-one img {
-    filter: brightness(20.5);
+    filter: brightness(1.2);
+    transform: scale(1.05);
 }
 
 /***********************

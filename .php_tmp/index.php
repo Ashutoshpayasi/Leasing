@@ -25,6 +25,7 @@
     href="assets/vendors/youtube-popup/youtube-popup.css" />
   <link rel="stylesheet" href="assets/css/style.css" />
   <link rel="stylesheet" href="assets/css/responsive.css" />
+  <link rel="stylesheet" href="assets/css/partner-fixes.css" />
   <link
     rel="stylesheet"
     href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
@@ -71,7 +72,7 @@
       <div class="banner-slide-item-one">
         <div class="banner-image-one">
           <img
-            src="assets/images/background/banner-one-image-3.jpg"
+            src="assets/images/background/artboard2.png"
             alt="banner-image" />
         </div>
         <div class="container-fluid">
@@ -97,7 +98,7 @@
       <div class="banner-slide-item-one">
         <div class="banner-image-one">
           <img
-            src="assets/images/background/banner-one-image-4.jpg"
+            src="assets/images/background/artboard4.png"
             alt="banner-image" />
         </div>
         <div class="container-fluid">
@@ -234,9 +235,9 @@
           class="process-box-one animate fadeInRight wow"
           data-wow-duration="2000ms"
           data-wow-delay="400ms">
-          <img src="assets/images/process/process-1.png" alt="image" />
+          <img src="assets/images/assets.webp" alt="image" />
           <div class="process-icon-one">
-            <img src="assets/images/svg/process/strategies.svg" alt="icon" />
+            <img src="assets/images/svg/process/analysis.svg" alt="icon" />
           </div>
           <h4><span>02 . </span>Asset Selection</h4>
           <p class="lead">
@@ -247,9 +248,9 @@
           class="process-box-one animate fadeInRight wow"
           data-wow-duration="2000ms"
           data-wow-delay="600ms">
-          <img src="assets/images/process/process-1.png" alt="image" />
+          <img src="assets/images/flexibleproposal.jpg" alt="image" />
           <div class="process-icon-one">
-            <img src="assets/images/svg/process/analysis.svg" alt="icon" />
+            <img src="assets/images/svg/process/strategies.svg" alt="icon" />
           </div>
           <h4><span>03 . </span>Flexible Proposal</h4>
           <p class="lead">
@@ -260,9 +261,9 @@
           class="process-box-one animate fadeInRight wow"
           data-wow-duration="2000ms"
           data-wow-delay="800ms">
-          <img src="assets/images/process/process-1.png" alt="image" />
+          <img src="assets/images/document.jpg" alt="image" />
           <div class="process-icon-one">
-            <img src="assets/images/svg/process/cooperation.svg" alt="icon" />
+            <img src="assets/images/svg/process/statistics.svg" alt="icon" />
           </div>
           <h4><span>04 . </span>Approval & Documentation</h4>
           <p class="lead">
@@ -273,9 +274,9 @@
           class="process-box-one animate fadeInRight wow"
           data-wow-duration="2000ms"
           data-wow-delay="1000ms">
-          <img src="assets/images/process/process-1.png" alt="image" />
+          <img src="assets/images/delivery.jpg" alt="image" />
           <div class="process-icon-one">
-            <img src="assets/images/svg/process/statistics.svg" alt="icon" />
+            <img src="assets/images/svg/process/cooperation.svg" alt="icon" />
           </div>
           <h4><span>05 . </span>Asset Delivery & Ongoing Support</h4>
           <p class="lead">
@@ -325,6 +326,7 @@
         <div class="patner-slide-item-one">
           <img src="assets/logo/12.png" alt="patner-logo" />
         </div>
+        
       </div>
     </div>
   </div>
@@ -615,16 +617,16 @@
           <div class="testimonial-slider-one">
             <div class="testimonial-item-one">
               <div class="testimonial-author-image">
-                <img src="assets/images/leasefinal.jpg" alt="Lease Grid Logo" />
+                <img src="assets/logo/12.png" alt="Lease Grid Logo" />
               </div>
               <h5>
                 We leased office furniture and IT equipment through Lease Grid, and the experience was seamless. Their team was responsive, transparent, and fast which made the entire process quite smooth.
               </h5>
-              <p>-Mr.Kamlesh Kaushik</p>
+              <p>-Mr.Kamlesh Kaushik <br>Avelors</p>
             </div>
             <div class="testimonial-item-one">
               <div class="testimonial-author-image">
-                <img src="assets/images/leasefinal.jpg" alt="Lease Grid Logo" />
+                <img src="assets/logo/11.png" alt="Lease Grid Logo" />
               </div>
               <h5>
                 Thanks to Lease Grid, we were able to scale our transportation needs without blocking capital. Their maintenance support is also top-notch &amp; the process was fast and hassle-free.
@@ -633,7 +635,7 @@
             </div>
             <div class="testimonial-item-one">
               <div class="testimonial-author-image">
-                <img src="assets/images/leasefinal.jpg" alt="Lease Grid Logo" />
+                <img src="assets/logo/10.png" alt="Lease Grid Logo" />
               </div>
               <h5>
                 The automation tools and plant equipment we leased for our EV facility were delivered on time and ready to plug into production. Great service and coordination from the team.

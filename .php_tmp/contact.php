@@ -74,7 +74,7 @@
                                 <img src="assets/images/svg/mail-icon-2.svg" alt="icon" class="me-3" style="width: 32px;">
                                 <div>
                                     <h6 class="mb-1">Email</h6>
-                                    <a href="mailto:Info@paanap.com">Info@paanap.com</a>
+                                    <a href="mailto:info@paanap.com">info@paanap.com</a>
                                 </div>
                             </li>
                             <li class="d-flex align-items-start mb-4">

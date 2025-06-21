@@ -196,31 +196,19 @@
                 <ul>
                   <li>
                     <p>Trucks & Trailers</p>
-                    <img
-                      src="assets/images/services/service-details-arrow-right.svg"
-                      alt="icon"
-                    />
+                    <i class="fa-solid fa-angle-right" style="color: var(--uniqo-primary); font-size: 16px;"></i>
                   </li>
                   <li>
                     <p>Aircraft</p>
-                    <img
-                      src="assets/images/services/service-details-arrow-right.svg"
-                      alt="icon"
-                    />
+                    <i class="fa-solid fa-angle-right" style="color: var(--uniqo-primary); font-size: 16px;"></i>
                   </li>
                   <li>
                     <p>Passenger Cars</p>
-                    <img
-                      src="assets/images/services/service-details-arrow-right.svg"
-                      alt="icon"
-                    />
+                    <i class="fa-solid fa-angle-right" style="color: var(--uniqo-primary); font-size: 16px;"></i>
                   </li>
                   <li>
                     <p>Recreational Vehicles</p>
-                    <img
-                      src="assets/images/services/service-details-arrow-right.svg"
-                      alt="icon"
-                    />
+                    <i class="fa-solid fa-angle-right" style="color: var(--uniqo-primary); font-size: 16px;"></i>
                   </li>
                   <li>
                     <p>Commercial Vehicles</p>
@@ -228,10 +216,7 @@
                   </li>
                   <li>
                     <p>Specialized Transport</p>
-                    <img
-                      src="assets/images/services/service-details-arrow-right.svg"
-                      alt="icon"
-                    />
+                    <i class="fa-solid fa-angle-right" style="color: var(--uniqo-primary); font-size: 16px;"></i>
                   </li>
                 </ul>
               </div>
