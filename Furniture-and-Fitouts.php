@@ -136,15 +136,15 @@
                 <div class="service-details-image-inner">
                   <img
                     class="img-fluid"
-                    src="assets/images/about/furniture-and-fitouts 1.webp"
-                    alt="service-image"
+                    src="assets/images/Service/01.jpg"
+                    alt="Furniture and Fitouts Image 1"
                   />
                 </div>
                 <div class="service-details-image-inner">
                   <img
                     class="img-fluid"
-                    src="assets/images/about/furniture-and-fitouts 2.webp"
-                    alt="service-image"
+                    src="assets/images/Service/02.jpg"
+                    alt="Furniture and Fitouts Image 2"
                   />
                 </div>
               </div>

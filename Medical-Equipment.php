@@ -169,10 +169,10 @@
             <div class="service-details-block animate fadeInLeft wow" data-wow-duration="1500ms" data-wow-delay="1550ms">
               <div class="service-details-image">
                 <div class="service-details-image-inner">
-                  <img class="img-fluid" src="assets/images/lease wwebsite image/medi and ecup-1.jpg" alt="Medical Equipment" />
+                  <img class="img-fluid" src="assets/images/Service/07.jpg" alt="Medical Equipment Image 1" />
                 </div>
                 <div class="service-details-image-inner">
-                  <img class="img-fluid" src="assets/images/lease wwebsite image/emergency-medical-equipment-2.jpg" alt="Emergency Medical Equipment" />
+                  <img class="img-fluid" src="assets/images/Service/08.jpg" alt="Medical Equipment Image 2" />
                 </div>
               </div>
             </div>

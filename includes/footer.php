@@ -58,7 +58,7 @@
                 <ul class="footer-contact-list">
                   <li>
                     <img src="assets/images/svg/addres-icon-2.svg" alt="icon" />
-                    CS-72, 3rd floor, Ansal Plaza Mall, Vaishali, Ghaziabad-201010
+                    CS-42, 4th floor, Ansal Plaza Mall, Vaishali, Ghaziabad-201010
                   </li>
                   <li>
                     <img src="assets/images/svg/call-icon-2.svg" alt="icon" />
@@ -66,7 +66,7 @@
                   </li>
                   <li>
                     <img src="assets/images/svg/mail-icon-2.svg" alt="icon" />
-                    <a href="mailto:info@paanap.com">info@paanap.com</a>
+                    <a href="mailto:Info@panapadvisors.com">Info@panapadvisors.com</a>
                   </li>
                   <li>
                     <i class="fab fa-linkedin" style="font-size: 20px; width: 20px; text-align: center;"></i>
@@ -163,10 +163,10 @@
               <span>Mon - Frd : 8:00 -16:00</span>
             </li>
             <li>
-              <a href="mailto:info@paanap.com">info@paanap.com</a>
+              <a href="mailto:Info@panapadvisors.com">Info@panapadvisors.com</a>
             </li>
             <li>
-              <a href="telto:+91 123 456 7890"> +91 123 456 7890</a>
+              <a href="telto:+91-9971645151"> +91-9971645151</a>
             </li>
           </ul>
           <h4>Office Address</h4>

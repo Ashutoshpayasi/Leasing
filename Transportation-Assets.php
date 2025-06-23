@@ -142,10 +142,10 @@
             >
               <div class="service-details-image">
                 <div class="service-details-image-inner">
-                  <img class="img-fluid" src="assets/images/lease wwebsite image/trans-1.jpg" alt="Transportation Asset 1" />
+                  <img class="img-fluid" src="assets/images/Service/15.jpg" alt="Transportation Assets Image 1" />
                 </div>
                 <div class="service-details-image-inner">
-                  <img class="img-fluid" src="assets/images/lease wwebsite image/trans-2.webp" alt="Transportation Asset 2" />
+                  <img class="img-fluid" src="assets/images/Service/16.jpg" alt="Transportation Assets Image 2" />
                 </div>
               </div>
             </div>

@@ -156,10 +156,10 @@
             >
               <div class="service-details-image">
                 <div class="service-details-image-inner">
-                  <img class="img-fluid" src="assets/images/lease wwebsite image/construction-site-assets-1.jpg" alt="Construction Asset 1" />
+                  <img class="img-fluid" src="assets/images/Service/13.jpg" alt="Construction Assets Image 1" />
                 </div>
                 <div class="service-details-image-inner">
-                  <img class="img-fluid" src="assets/images/lease wwebsite image/asset_construction_hire_cover-2.jpg" alt="Construction Asset 2" />
+                  <img class="img-fluid" src="assets/images/Service/14.jpg" alt="Construction Assets Image 2" />
                 </div>
               </div>
             </div>

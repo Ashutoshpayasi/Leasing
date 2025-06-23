@@ -154,10 +154,10 @@
             >
               <div class="service-details-image">
                 <div class="service-details-image-inner">
-                  <img class="img-fluid" src="assets/images/lease wwebsite image/security-1.jpg" alt="Security Asset 1" />
+                  <img class="img-fluid" src="assets/images/Service/11.jpg" alt="Security/Surveillance Assets Image 1" />
                 </div>
                 <div class="service-details-image-inner">
-                  <img class="img-fluid" src="assets/images/lease wwebsite image/security-2.jpg" alt="Security Asset 2" />
+                  <img class="img-fluid" src="assets/images/Service/12.jpg" alt="Security/Surveillance Assets Image 2" />
                 </div>
               </div>
             </div>

@@ -163,10 +163,10 @@
           <div class="service-details-block animate fadeInLeft wow" data-wow-duration="1500ms" data-wow-delay="1550ms">
             <div class="service-details-image">
               <div class="service-details-image-inner">
-                <img class="img-fluid" src="assets/images/lease wwebsite image/laptop.png" alt="Leased Laptop" />
+                <img class="img-fluid" src="assets/images/Service/03.jpg" alt="IT Hardware Image 1" />
               </div>
               <div class="service-details-image-inner">
-                <img class="img-fluid" src="assets/images/lease wwebsite image/desktop.png" alt="Leased Desktop" />
+                <img class="img-fluid" src="assets/images/Service/04.jpg" alt="IT Hardware Image 2" />
               </div>
             </div>
           </div>

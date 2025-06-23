@@ -20,7 +20,7 @@
          <ul class="topbar-left-one">
            <li>
              <img src="assets/images/svg/header/mail.svg" alt="icon" />
-             <a href="mailto:info@paanap.com">info@paanap.com</a>
+             <a href="mailto:Info@panapadvisors.com">Info@panapadvisors.com</a>
            </li>
            <li>
              <img src="assets/images/svg/header/clock.svg" alt="icon" />

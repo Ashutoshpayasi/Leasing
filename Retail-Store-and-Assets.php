@@ -172,10 +172,10 @@
             >
               <div class="service-details-image">
                 <div class="service-details-image-inner">
-                  <img class="img-fluid" src="assets/images/lease wwebsite image/ret and ass-1.jpg" alt="Retail Asset 1" />
+                  <img class="img-fluid" src="assets/images/Service/09.jpg" alt="Retail Store and Assets Image 1" />
                 </div>
                 <div class="service-details-image-inner">
-                  <img class="img-fluid" src="assets/images/lease wwebsite image/ret and ass-2.jpg" alt="Retail Asset 2" />
+                  <img class="img-fluid" src="assets/images/Service/10.jpg" alt="Retail Store and Assets Image 2" />
                 </div>
               </div>
             </div>

@@ -168,10 +168,10 @@
             >
               <div class="service-details-image">
                 <div class="service-details-image-inner">
-                  <img class="img-fluid" src="assets/images/lease wwebsite image/Tips-for-Stress-Free-Plant-and-Machinery-Relocation-2.webp" alt="Plant and Machinery Relocation" />
+                  <img class="img-fluid" src="assets/images/Service/05.jpg" alt="Plant and Machinery Image 1" />
                 </div>
                 <div class="service-details-image-inner">
-                  <img class="img-fluid" src="assets/images/lease wwebsite image/plantandmachinery-equipments.png" alt="Plant and Machinery Equipments" />
+                  <img class="img-fluid" src="assets/images/Service/06.jpg" alt="Plant and Machinery Image 2" />
                 </div>
               </div>
             </div>

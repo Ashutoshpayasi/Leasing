@@ -67,14 +67,16 @@
                                 <img src="assets/images/svg/addres-icon-2.svg" alt="icon" class="me-3" style="width: 32px;">
                                 <div>
                                     <h6 class="mb-1">Address</h6>
-                                    <p class="mb-0">CS-72, 3rd floor, Ansal Plaza Mall, Vaishali, Ghaziabad-201010</p>
+                                    <p class="mb-0">CS-42, 4th floor, Ansal Plaza Mall, Vaishali, Ghaziabad-201010</p>
                                 </div>
                             </li>
                             <li class="d-flex align-items-start mb-4">
-                                <img src="assets/images/svg/mail-icon-2.svg" alt="icon" class="me-3" style="width: 32px;">
-                                <div>
-                                    <h6 class="mb-1">Email</h6>
-                                    <a href="mailto:info@paanap.com">info@paanap.com</a>
+                                <div class="contact-info-icon">
+                                    <img src="assets/images/svg/mail-icon-2.svg" alt="icon" />
+                                </div>
+                                <div class="contact-info-text">
+                                    <span>Mail address</span>
+                                    <a href="mailto:Info@panapadvisors.com">Info@panapadvisors.com</a>
                                 </div>
                             </li>
                             <li class="d-flex align-items-start mb-4">

@@ -223,6 +223,7 @@
           class="process-box-one animate fadeInRight wow"
           data-wow-duration="2000ms">
           <img src="assets/images/process/process-1.png" alt="image" />
+          <div class="process-bg-overlay"></div>
           <div class="process-icon-one">
             <img src="assets/images/svg/process/people.svg" alt="icon" />
           </div>
@@ -236,6 +237,7 @@
           data-wow-duration="2000ms"
           data-wow-delay="400ms">
           <img src="assets/images/assets.webp" alt="image" />
+          <div class="process-bg-overlay"></div>
           <div class="process-icon-one">
             <img src="assets/images/svg/process/analysis.svg" alt="icon" />
           </div>
@@ -249,6 +251,7 @@
           data-wow-duration="2000ms"
           data-wow-delay="600ms">
           <img src="assets/images/flexibleproposal.jpg" alt="image" />
+          <div class="process-bg-overlay"></div>
           <div class="process-icon-one">
             <img src="assets/images/svg/process/strategies.svg" alt="icon" />
           </div>
@@ -262,6 +265,7 @@
           data-wow-duration="2000ms"
           data-wow-delay="800ms">
           <img src="assets/images/document.jpg" alt="image" />
+          <div class="process-bg-overlay"></div>
           <div class="process-icon-one">
             <img src="assets/images/svg/process/statistics.svg" alt="icon" />
           </div>
@@ -275,6 +279,7 @@
           data-wow-duration="2000ms"
           data-wow-delay="1000ms">
           <img src="assets/images/delivery.jpg" alt="image" />
+          <div class="process-bg-overlay"></div>
           <div class="process-icon-one">
             <img src="assets/images/svg/process/cooperation.svg" alt="icon" />
           </div>
@@ -796,17 +801,7 @@
         </div>
       </div>
       <div class="row justify-content-center gutter-y-60">
-        <div class="col-lg-4 col-md-6">
-          <div
-            class="team-box-one animate fadeInUp wow"
-            data-wow-duration="1500ms">
-            <div class="team-image-one">
-              <a href="#" data-bs-toggle="modal" data-bs-target="#teamModal1">
-                <img src="assets/images/team/team-1.png" alt="team-image" />
-              </a>
-            </div>
-          </div>
-        </div>
+       
        
         <div class="col-lg-4 col-md-6">
           <div
@@ -833,6 +828,17 @@
             </div>
           </div>
         </div>
+        <div class="col-lg-4 col-md-6">
+          <div
+            class="team-box-one animate fadeInUp wow"
+            data-wow-duration="1500ms">
+            <div class="team-image-one">
+              <a href="#" data-bs-toggle="modal" data-bs-target="#teamModal1">
+                <img src="assets/images/team/team-1.png" alt="team-image" />
+              </a>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </div>
@@ -843,31 +849,18 @@
     <div class="modal-dialog modal-lg modal-dialog-centered">
       <div class="modal-content">
         <div class="modal-header">
-          <h5 class="modal-title" id="teamModal1Label">Sarah Johnson</h5>
+          <h5 class="modal-title" id="teamModal1Label">Mr. Mukul Chauhan</h5>
           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
         <div class="modal-body">
           <div class="row">
             <div class="col-md-4">
-              <img src="assets/images/team/team-1.png" alt="Sarah Johnson" class="img-fluid rounded mb-3">
+              <img src="assets/images/team/team-1.png" alt="Mr. Mukul Chauhan" class="img-fluid rounded mb-3">
             </div>
             <div class="col-md-8">
-              <h4>Sarah Johnson</h4>
-              <p class="text-muted mb-3"><strong>Chief Executive Officer</strong></p>
-              <p class="mb-3">Sarah brings over 15 years of experience in the leasing industry, having worked with Fortune 500 companies and startups alike. She specializes in strategic business development and has led Leasegrid to become a market leader in asset leasing solutions.</p>
-              <div class="team-details">
-                <h6>Expertise:</h6>
-                <ul class="list-unstyled">
-                  <li><i class="fas fa-check text-success me-2"></i>Strategic Planning & Business Development</li>
-                  <li><i class="fas fa-check text-success me-2"></i>Financial Management & Risk Assessment</li>
-                  <li><i class="fas fa-check text-success me-2"></i>Client Relationship Management</li>
-                  <li><i class="fas fa-check text-success me-2"></i>Market Analysis & Growth Strategy</li>
-                </ul>
-                <h6>Education:</h6>
-                <p>MBA in Finance, Harvard Business School</p>
-                <h6>Experience:</h6>
-                <p>15+ years in Financial Services & Leasing</p>
-              </div>
+              <h4>Mr. Mukul Chauhan</h4>
+              <p class="text-muted mb-3"><strong>Assistant Vice President of Business Development</strong></p>
+              <p class="mb-3">Mr. Mukul Chauhan is the Assistant Vice President of Business Development at Lease Grid, where he spearheads strategic growth initiatives and nurtures key client relationships. With his rich expertise and experience in the leasing and financial services sector, Mukul brings a strong track record in identifying market opportunities, designing customized solutions, and negotiating high-value contracts. His deep understanding of vehicle and equipment leasing, combined with a client-centric approach, enables Lease Grid to expand its footprint and deliver enhanced value to partners. At the core of his role, Mukul combines market intelligence with operational agility to drive sustained business growth and foster long-term industry partnerships.</p>
             </div>
           </div>
         </div>
@@ -884,31 +877,18 @@
     <div class="modal-dialog modal-lg modal-dialog-centered">
       <div class="modal-content">
         <div class="modal-header">
-          <h5 class="modal-title" id="teamModal2Label">Michael Chen</h5>
+          <h5 class="modal-title" id="teamModal2Label">Mr. Ashish S. Desai</h5>
           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
         <div class="modal-body">
           <div class="row">
             <div class="col-md-4">
-              <img src="assets/images/team/team-3.png" alt="Michael Chen" class="img-fluid rounded mb-3">
+              <img src="assets/images/team/team-3.png" alt="Mr. Ashish S. Desai" class="img-fluid rounded mb-3">
             </div>
             <div class="col-md-8">
-              <h4>Michael Chen</h4>
-              <p class="text-muted mb-3"><strong>Chief Technology Officer</strong></p>
-              <p class="mb-3">Michael is a technology visionary with expertise in digital transformation and fintech solutions. He leads our technology initiatives, ensuring Leasegrid stays at the forefront of digital leasing platforms and customer experience innovation.</p>
-              <div class="team-details">
-                <h6>Expertise:</h6>
-                <ul class="list-unstyled">
-                  <li><i class="fas fa-check text-success me-2"></i>Digital Platform Development</li>
-                  <li><i class="fas fa-check text-success me-2"></i>Fintech Solutions & Integration</li>
-                  <li><i class="fas fa-check text-success me-2"></i>Data Analytics & AI Implementation</li>
-                  <li><i class="fas fa-check text-success me-2"></i>Cybersecurity & Compliance</li>
-                </ul>
-                <h6>Education:</h6>
-                <p>MS in Computer Science, Stanford University</p>
-                <h6>Experience:</h6>
-                <p>12+ years in Technology & Fintech</p>
-              </div>
+              <h4>Mr. Ashish S. Desai</h4>
+              <p class="text-muted mb-3"><strong>Director</strong></p>
+              <p class="mb-3">Mr. Ashish S. Desai, Director at Lease Grid, brings over 25 years of diverse professional experience, including more than a decade in the vehicle and equipment leasing industry. He co-founded Panap Advisors LLP in August 2019, which later evolved into Panap Advisors Pvt. Ltd., the parent company of Lease Grid. Prior to this, he served as Head of Finance and Treasury at Dextra India Pvt. Ltd., a multinational corporation, from 2016 to 2017. His expertise spans leasing operations, receivables management, and strategic engagement with banks and NBFCs. Earlier in his career, Mr. Desai held key roles at ALD Automotive India Pvt. Ltd., where he was responsible for operations and collections. At Lease Grid, he plays a strategic leadership role, driving operational efficiency and client-centric leasing solutions.</p>
             </div>
           </div>
         </div>
@@ -925,31 +905,18 @@
     <div class="modal-dialog modal-lg modal-dialog-centered">
       <div class="modal-content">
         <div class="modal-header">
-          <h5 class="modal-title" id="teamModal3Label">Emily Rodriguez</h5>
+          <h5 class="modal-title" id="teamModal3Label">Mr. Subhash Kumar</h5>
           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
         <div class="modal-body">
           <div class="row">
             <div class="col-md-4">
-              <img src="assets/images/team/team-2.png" alt="Emily Rodriguez" class="img-fluid rounded mb-3">
+              <img src="assets/images/team/team-2.png" alt="Mr. Subhash Kumar" class="img-fluid rounded mb-3">
             </div>
             <div class="col-md-8">
-              <h4>Emily Rodriguez</h4>
-              <p class="text-muted mb-3"><strong>Head of Operations</strong></p>
-              <p class="mb-3">Emily oversees all operational aspects of Leasegrid, ensuring seamless service delivery and customer satisfaction. With her background in operations management, she has streamlined our processes and improved efficiency across all departments.</p>
-              <div class="team-details">
-                <h6>Expertise:</h6>
-                <ul class="list-unstyled">
-                  <li><i class="fas fa-check text-success me-2"></i>Operations Management & Optimization</li>
-                  <li><i class="fas fa-check text-success me-2"></i>Customer Service Excellence</li>
-                  <li><i class="fas fa-check text-success me-2"></i>Process Improvement & Quality Control</li>
-                  <li><i class="fas fa-check text-success me-2"></i>Team Leadership & Training</li>
-                </ul>
-                <h6>Education:</h6>
-                <p>MBA in Operations Management, Wharton School</p>
-                <h6>Experience:</h6>
-                <p>10+ years in Operations & Customer Service</p>
-              </div>
+              <h4>Mr. Subhash Kumar</h4>
+              <p class="text-muted mb-3"><strong>Director</strong></p>
+              <p class="mb-3">Mr. Subhash Kumar, Director at Lease Grid, is a distinguished finance professional with over 15 years of experience spanning banking, audit, taxation, and financial advisory. A Chartered Accountant certified by the Institute of Chartered Accountants of India (ICAI), he brings a deep understanding of financial strategy and regulatory frameworks. At Lease Grid, he leads the financial governance and risk management functions, playing a critical role in shaping the company's strategic direction and driving sustainable growth.</p>
             </div>
           </div>
         </div>
