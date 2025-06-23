@@ -27,7 +27,7 @@
     <div class="custom-cursor-two"></div>
 
     <!-- header start -->
-    <?php include('./includes/header.php');?>
+    <?php include('./includes/header.php'); ?>
     <!-- header end -->
     <!-- page header start -->
     <div class="page-header-section" style="background-image: url(assets/images/background/banner-one-image.jpg); background-size: cover; background-position: center; min-height: 350px; display: flex; align-items: center;">
@@ -86,6 +86,10 @@
                                     <a href="tel:+919971645151">+91-9971645151</a>
                                 </div>
                             </li>
+                            <li>
+                                <i class="fab fa-linkedin" style="font-size: 20px; width: 20px; text-align: center;"></i>
+                                <a href="https://www.linkedin.com/company/leasegrid/">Leasegrid</a>
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -133,7 +137,7 @@
         </div>
     </div>
     <!-- footer one start -->
-    <?php include('./includes/footer.php');?>
+    <?php include('./includes/footer.php'); ?>
     <!-- top to bottom end  -->
     <script src="assets/vendors/bootstrap/js/bootstrap.bundle.min.js"></script>
     <script src="assets/vendors/jquery/jquery-3.7.1.min.js"></script>

@@ -278,7 +278,7 @@
           class="process-box-one animate fadeInRight wow"
           data-wow-duration="2000ms"
           data-wow-delay="1000ms">
-          <img src="assets/images/delivery.jpg" alt="image" />
+          <img src="assets/images/about/assetimage.jpg" alt="image" />
           <div class="process-bg-overlay"></div>
           <div class="process-icon-one">
             <img src="assets/images/svg/process/cooperation.svg" alt="icon" />

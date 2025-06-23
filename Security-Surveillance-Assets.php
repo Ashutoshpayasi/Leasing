@@ -152,12 +152,12 @@
               data-wow-duration="1500ms"
               data-wow-delay="1400ms"
             >
-              <div class="service-details-image">
-                <div class="service-details-image-inner">
-                  <img class="img-fluid" src="assets/images/Service/11.jpg" alt="Security/Surveillance Assets Image 1" />
+              <div class="service-details-image" style="display: flex; gap: 16px; align-items: stretch;">
+                <div class="service-details-image-inner" style="flex: 1;">
+                  <img class="img-fluid" src="assets/images/Service/11.jpg" alt="Security/Surveillance Assets Image 1" style="height: 220px; object-fit: cover; width: 100%;" />
                 </div>
-                <div class="service-details-image-inner">
-                  <img class="img-fluid" src="assets/images/Service/12.jpg" alt="Security/Surveillance Assets Image 2" />
+                <div class="service-details-image-inner" style="flex: 1;">
+                  <img class="img-fluid" src="assets/images/Service/12.jpg" alt="Security/Surveillance Assets Image 2" style="height: 220px; object-fit: cover; width: 100%;" />
                 </div>
               </div>
             </div>
@@ -178,20 +178,20 @@
               <div class="service-pagination-list">
                 <div class="service-pagination pre">
                   <div class="service-pagination-inner">
-                    <a href="#">
+                    <a href="Retail-Store-and-Assets.php">
                       <i class="fa-solid fa-angle-right" style="transform: rotate(180deg); color: var(--uniqo-primary); font-size: 18px;"></i>
                       <span>Previous</span>
                     </a>
-                    <h5><a href="#">Previous Service</a></h5>
+                    <h5><a href="Retail-Store-and-Assets.php">Retail Store and Assets</a></h5>
                   </div>
                 </div>
                 <div class="service-pagination next">
                   <div class="service-pagination-inner">
-                    <a href="#">
+                    <a href="Construction-Assets.php">
                       <span>Next</span>
                       <i class="fa-solid fa-angle-right" style="color: var(--uniqo-primary); font-size: 18px;"></i>
                     </a>
-                    <h5><a href="#">Next Service</a></h5>
+                    <h5><a href="Construction-Assets.php">Construction Assets</a></h5>
                   </div>
                 </div>
               </div>
@@ -223,7 +223,7 @@
                     <i class="fa-solid fa-angle-right" style="color: var(--uniqo-primary); font-size: 16px;"></i>
                   </li>
                   <li>
-                    <p>Biometric Systems</li>
+                    <p>Biometric Systems</p>
                     <i class="fa-solid fa-angle-right" style="color: var(--uniqo-primary); font-size: 16px;"></i>
                   </li>
                   <li>

@@ -192,20 +192,20 @@
               <div class="service-pagination-list">
                 <div class="service-pagination pre">
                   <div class="service-pagination-inner">
-                    <a href="#">
+                    <a href="IT-Hardware.php">
                       <i class="fa-solid fa-angle-right" style="transform: rotate(180deg); color: var(--uniqo-primary); font-size: 18px;"></i>
                       <span>Previous</span>
                     </a>
-                    <h5><a href="#">Previous Service</a></h5>
+                    <h5><a href="IT-Hardware.php">IT Hardware</a></h5>
                   </div>
                 </div>
                 <div class="service-pagination next">
                   <div class="service-pagination-inner">
-                    <a href="#">
+                    <a href="Medical-Equipment.php">
                       <span>Next</span>
                       <i class="fa-solid fa-angle-right" style="color: var(--uniqo-primary); font-size: 18px;"></i>
                     </a>
-                    <h5><a href="#">Next Service</a></h5>
+                    <h5><a href="Medical-Equipment.php">Medical Equipment</a></h5>
                   </div>
                 </div>
               </div>
