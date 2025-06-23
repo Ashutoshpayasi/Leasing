@@ -71,11 +71,9 @@
                                 </div>
                             </li>
                             <li class="d-flex align-items-start mb-4">
-                                <div class="contact-info-icon">
-                                    <img src="assets/images/svg/mail-icon-2.svg" alt="icon" />
-                                </div>
-                                <div class="contact-info-text">
-                                    <span>Mail address</span>
+                                <img src="assets/images/svg/mail-icon-2.svg" alt="icon" class="me-3" style="width: 32px;">
+                                <div>
+                                    <h6 class="mb-1">Mail address</h6>
                                     <a href="mailto:Info@panapadvisors.com">Info@panapadvisors.com</a>
                                 </div>
                             </li>
@@ -86,37 +84,94 @@
                                     <a href="tel:+919971645151">+91-9971645151</a>
                                 </div>
                             </li>
-                            <li>
-                                <i class="fab fa-linkedin" style="font-size: 20px; width: 20px; text-align: center;"></i>
-                                <a href="https://www.linkedin.com/company/leasegrid/">Leasegrid</a>
+                            <li class="d-flex align-items-start mb-4">
+                                <i class="fab fa-linkedin me-3" style="width: 32px; font-size: 32px; color: #0077B5;"></i>
+                                <div>
+                                    <h6 class="mb-1">LinkedIn</h6>
+                                    <a href="https://www.linkedin.com/company/leasegrid/">Leasegrid</a>
+                                </div>
                             </li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-xl-7 col-lg-6">
-                    <div class="contact-form animate fadeInRight wow p-4 p-md-5 shadow rounded bg-white" data-wow-duration="1500ms" data-wow-delay="200ms">
-                        <form action="#">
-                            <div class="row g-3">
+                    <div class="contact-form animate fadeInRight wow p-4 p-md-5 shadow-lg rounded-4 bg-white" data-wow-duration="1500ms" data-wow-delay="200ms" style="border: 1px solid #eaeaea; box-shadow: 0 10px 40px rgba(0,0,0,0.08) !important;">
+                        <div class="section-title mb-4">
+                            <h3 class="text-dark" style="font-weight: 600;">Get in Touch</h3>
+                            <p class="text-muted mb-0">Fill out the form below and we'll get back to you shortly.</p>
+                        </div>
+                        <form action="#" class="contact-form-wrapper">
+                            <div class="row gy-4">
                                 <div class="col-md-6">
-                                    <input type="text" name="name" class="form-control" placeholder="Name">
+                                    <div class="form-floating">
+                                        <input type="text" id="name" name="name" class="form-control" placeholder="Your Name" 
+                                            style="height: 55px; border-radius: 8px; border: 2px solid #e0e0e0; transition: all 0.3s ease;
+                                            box-shadow: 0 2px 5px rgba(0,0,0,0.02);">
+                                        <label for="name" style="padding-left: 16px;">Your Name</label>
+                                    </div>
                                 </div>
                                 <div class="col-md-6">
-                                    <input type="email" name="email" class="form-control" placeholder="Email">
+                                    <div class="form-floating">
+                                        <input type="email" id="email" name="email" class="form-control" placeholder="Email Address" 
+                                            style="height: 55px; border-radius: 8px; border: 2px solid #e0e0e0; transition: all 0.3s ease;
+                                            box-shadow: 0 2px 5px rgba(0,0,0,0.02);">
+                                        <label for="email" style="padding-left: 16px;">Email Address</label>
+                                    </div>
                                 </div>
                                 <div class="col-md-6">
-                                    <input type="number" name="number" class="form-control" placeholder="Phone number">
+                                    <div class="form-floating">
+                                        <input type="tel" id="phone" name="number" class="form-control" placeholder="Phone Number" 
+                                            style="height: 55px; border-radius: 8px; border: 2px solid #e0e0e0; transition: all 0.3s ease;
+                                            box-shadow: 0 2px 5px rgba(0,0,0,0.02);">
+                                        <label for="phone" style="padding-left: 16px;">Phone Number</label>
+                                    </div>
                                 </div>
                                 <div class="col-md-6">
-                                    <input type="text" name="need" class="form-control" placeholder="What are your needs?">
+                                    <div class="form-floating">
+                                        <select class="form-select" id="need" name="need" 
+                                            style="height: 55px; border-radius: 8px; border: 2px solid #e0e0e0; transition: all 0.3s ease;
+                                            box-shadow: 0 2px 5px rgba(0,0,0,0.02);">
+                                            <option value="" selected disabled>Select a service</option>
+                                            <option value="IT Hardware">IT Hardware</option>
+                                            <option value="Plant and Machinery">Plant and Machinery</option>
+                                            <option value="Medical Equipment">Medical Equipment</option>
+                                            <option value="Retail Store Assets">Retail Store Assets</option>
+                                            <option value="Security Assets">Security Assets</option>
+                                            <option value="Construction Assets">Construction Assets</option>
+                                            <option value="Transportation Assets">Transportation Assets</option>
+                                            <option value="Other">Other</option>
+                                        </select>
+                                        <label for="need" style="padding-left: 16px;">Service Required</label>
+                                    </div>
                                 </div>
                                 <div class="col-12">
-                                    <textarea name="message" class="form-control" placeholder="Message" rows="4"></textarea>
+                                    <div class="form-floating">
+                                        <textarea id="message" name="message" class="form-control" placeholder="Your Message" 
+                                            style="height: 120px; border-radius: 8px; border: 2px solid #e0e0e0; transition: all 0.3s ease;
+                                            box-shadow: 0 2px 5px rgba(0,0,0,0.02);"></textarea>
+                                        <label for="message" style="padding-left: 16px;">Your Message</label>
+                                    </div>
                                 </div>
-                                <div class="col-12 text-end">
-                                    <button type="submit" class="btn btn-secondary btn-theme px-5 py-2">Send</button>
+                                <div class="col-12">
+                                    <button type="submit" class="btn btn-primary btn-theme" 
+                                        style="width: 100%; padding: 12px; border-radius: 8px; font-weight: 500; font-size: 16px; 
+                                        text-transform: uppercase; letter-spacing: 0.5px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); 
+                                        transition: all 0.3s ease;">
+                                        Send Message <i class="fas fa-arrow-right ms-2"></i>
+                                    </button>
                                 </div>
                             </div>
                         </form>
+                        <style>
+                            .form-control:focus, .form-select:focus {
+                                border-color: #0d6efd !important;
+                                box-shadow: 0 0 0 0.2rem rgba(13,110,253,.15) !important;
+                            }
+                            .btn-primary:hover {
+                                transform: translateY(-2px);
+                                box-shadow: 0 6px 20px rgba(0,0,0,0.15) !important;
+                            }
+                        </style>
                     </div>
                 </div>
             </div>
